@@ -1,0 +1,3242 @@
+{
+    "1": {
+        "Access to water (in Hrs)": 1.0,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 13.1147540984,
+        "Wealth Index Factor Score": -0.60046,
+        "Latitude": 21.965697,
+        "Longitude": 90.126312,
+        "Location Name": "Barguna District, -, Bangladesh"
+    },
+    "2": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 3,
+        "Access to cellphone": 2,
+        "Education completed": 11.4754098361,
+        "Wealth Index Factor Score": 0.27489,
+        "Latitude": 22.221232,
+        "Longitude": 90.348908,
+        "Location Name": "Polder 43/2B, Patuakhali District, Patuakhali -, Bangladesh"
+    },
+    "3": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": 0.63216,
+        "Latitude": 22.191484,
+        "Longitude": 90.212539,
+        "Location Name": "Barguna District, Ayla Patakata -, Bangladesh"
+    },
+    "4": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.22385,
+        "Latitude": 22.185481,
+        "Longitude": 90.167023,
+        "Location Name": "Barguna District, Keorabunia -, Bangladesh"
+    },
+    "13": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 0,
+        "Access to cellphone": 1,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.84562,
+        "Latitude": 22.952512,
+        "Longitude": 90.450585,
+        "Location Name": "Hizla Subdistrict, Barisal District -, Bangladesh"
+    },
+    "14": {
+        "Access to water (in Hrs)": 0.55,
+        "Access to electricity": 6,
+        "Access to cellphone": 6,
+        "Education completed": 19.6721311475,
+        "Wealth Index Factor Score": -0.046065,
+        "Latitude": 22.654193,
+        "Longitude": 90.373125,
+        "Location Name": "Barisal Sadar Subdistrict, Barisal District - 8200, Bangladesh"
+    },
+    "15": {
+        "Access to water (in Hrs)": 0.45,
+        "Access to electricity": 3,
+        "Access to cellphone": 5,
+        "Education completed": 4.9180327869,
+        "Wealth Index Factor Score": -0.59752,
+        "Latitude": 22.733407,
+        "Longitude": 90.572067,
+        "Location Name": "Mehendiganj Subdistrict, Barisal District -, Bangladesh"
+    },
+    "19": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 10.6557377049,
+        "Wealth Index Factor Score": 0.972645,
+        "Latitude": 22.919862,
+        "Longitude": 90.084578,
+        "Location Name": "Wazirpur Subdistrict, Barisal District -, Bangladesh"
+    },
+    "20": {
+        "Access to water (in Hrs)": 0.58,
+        "Access to electricity": 6,
+        "Access to cellphone": 6,
+        "Education completed": 15.5737704918,
+        "Wealth Index Factor Score": -0.173455,
+        "Latitude": 22.765777,
+        "Longitude": 90.608171,
+        "Location Name": "Bhola District, Bhola -, Bangladesh"
+    },
+    "21": {
+        "Access to water (in Hrs)": 0.63,
+        "Access to electricity": 5,
+        "Access to cellphone": 5,
+        "Education completed": 27.868852459,
+        "Wealth Index Factor Score": 0.02881,
+        "Latitude": 22.807404,
+        "Longitude": 90.635883,
+        "Location Name": "Bede polli, Bhola Sadar Subdistrict, Bangladesh"
+    },
+    "22": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 3.2786885246,
+        "Wealth Index Factor Score": -0.69886,
+        "Latitude": 22.530139,
+        "Longitude": 90.708757,
+        "Location Name": "Manan Hawlader Bari Jame Mosque, Kacha Road of 2 & 3 no ward, Bhola District, - 8320, Bangladesh"
+    },
+    "23": {
+        "Access to water (in Hrs)": 12.67,
+        "Access to electricity": 27,
+        "Access to cellphone": 24,
+        "Education completed": 71.3114754098,
+        "Wealth Index Factor Score": -0.73371,
+        "Latitude": 22.242496,
+        "Longitude": 90.682281,
+        "Location Name": "Bhola District, -, Bangladesh"
+    },
+    "24": {
+        "Access to water (in Hrs)": 1.58,
+        "Access to electricity": 9,
+        "Access to cellphone": 8,
+        "Education completed": 23.7704918033,
+        "Wealth Index Factor Score": -0.77018,
+        "Latitude": 22.160582,
+        "Longitude": 90.800267,
+        "Location Name": "Bhola District, - 8340, Bangladesh"
+    },
+    "25": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 1,
+        "Access to cellphone": 2,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.88761,
+        "Latitude": 22.204696,
+        "Longitude": 90.678519,
+        "Location Name": "Bhola District, -, Bangladesh"
+    },
+    "26": {
+        "Access to water (in Hrs)": 1.67,
+        "Access to electricity": 4,
+        "Access to cellphone": 3,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -1.03682,
+        "Latitude": 22.632841,
+        "Longitude": 90.697578,
+        "Location Name": "Bhola District, - 8300, Bangladesh"
+    },
+    "27": {
+        "Access to water (in Hrs)": 0.83,
+        "Access to electricity": 6,
+        "Access to cellphone": 7,
+        "Education completed": 13.9344262295,
+        "Wealth Index Factor Score": -0.23332,
+        "Latitude": 22.289165,
+        "Longitude": 90.801934,
+        "Location Name": "Bhola District, - 8330, Bangladesh"
+    },
+    "29": {
+        "Access to water (in Hrs)": 0.83,
+        "Access to electricity": 3,
+        "Access to cellphone": 4,
+        "Education completed": 13.1147540984,
+        "Wealth Index Factor Score": -0.71819,
+        "Latitude": 22.333506,
+        "Longitude": 90.800834,
+        "Location Name": "Bhola District, Lalmohan - 8330, Bangladesh"
+    },
+    "30": {
+        "Access to water (in Hrs)": 1.17,
+        "Access to electricity": 2,
+        "Access to cellphone": 4,
+        "Education completed": 8.1967213115,
+        "Wealth Index Factor Score": -1.1219,
+        "Latitude": 22.645013,
+        "Longitude": 90.131265,
+        "Location Name": "Jhalokathi, Jhalakathi Sadar Subdistrict, Bangladesh"
+    },
+    "31": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": -0.17152,
+        "Latitude": 22.405903,
+        "Longitude": 90.105869,
+        "Location Name": "Kathalia, Kathalia Subdistrict, Bangladesh"
+    },
+    "32": {
+        "Access to water (in Hrs)": 1.25,
+        "Access to electricity": 7,
+        "Access to cellphone": 9,
+        "Education completed": 41.8032786885,
+        "Wealth Index Factor Score": 0.04715,
+        "Latitude": 22.608337,
+        "Longitude": 90.370969,
+        "Location Name": "Nalchity Subdistrict, Bangladesh"
+    },
+    "33": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 0,
+        "Access to cellphone": 1,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.72425,
+        "Latitude": 22.538455,
+        "Longitude": 90.191775,
+        "Location Name": "Nalchity Subdistrict, Bangladesh"
+    },
+    "34": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 1,
+        "Access to cellphone": 0,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.82452,
+        "Latitude": 22.344413,
+        "Longitude": 90.445328,
+        "Location Name": "Patuakhali District, Bahermauza -, Bangladesh"
+    },
+    "36": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 3,
+        "Access to cellphone": 2,
+        "Education completed": 4.9180327869,
+        "Wealth Index Factor Score": -0.44656,
+        "Latitude": 22.466397,
+        "Longitude": 90.5396,
+        "Location Name": "Patuakhali District, -, Bangladesh"
+    },
+    "37": {
+        "Access to water (in Hrs)": 1.27,
+        "Access to electricity": 11,
+        "Access to cellphone": 12,
+        "Education completed": 36.8852459016,
+        "Wealth Index Factor Score": -0.37051,
+        "Latitude": 22.440583,
+        "Longitude": 90.448453,
+        "Location Name": "Kuripaika, Patuakhali Sadar Subdistrict, Bangladesh"
+    },
+    "38": {
+        "Access to water (in Hrs)": 0.7,
+        "Access to electricity": 2,
+        "Access to cellphone": 3,
+        "Education completed": 10.6557377049,
+        "Wealth Index Factor Score": -0.41699,
+        "Latitude": 22.091072,
+        "Longitude": 90.499789,
+        "Location Name": "Galachipa, Bangladesh"
+    },
+    "39": {
+        "Access to water (in Hrs)": 0.62,
+        "Access to electricity": 2,
+        "Access to cellphone": 3,
+        "Education completed": 6.5573770492,
+        "Wealth Index Factor Score": -0.24751,
+        "Latitude": 22.285703,
+        "Longitude": 90.477117,
+        "Location Name": "Bakulbaria, Galachipa, Bangladesh"
+    },
+    "41": {
+        "Access to water (in Hrs)": 0.03,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.63563,
+        "Latitude": 21.933181,
+        "Longitude": 90.206191,
+        "Location Name": "Patuakhali District, -, Bangladesh"
+    },
+    "42": {
+        "Access to water (in Hrs)": 0.42,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 13.1147540984,
+        "Wealth Index Factor Score": 0.113255,
+        "Latitude": 22.285431,
+        "Longitude": 90.371005,
+        "Location Name": "Patuakhali District, Patuakhali -, Bangladesh"
+    },
+    "43": {
+        "Access to water (in Hrs)": 0.97,
+        "Access to electricity": 8,
+        "Access to cellphone": 7,
+        "Education completed": 29.5081967213,
+        "Wealth Index Factor Score": 0.228905,
+        "Latitude": 22.355524,
+        "Longitude": 90.36386,
+        "Location Name": "Bauphal Patuakhali Highway, Patuakhali District, Patuakhali - 8600, Bangladesh"
+    },
+    "44": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 1,
+        "Access to cellphone": 2,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.51018,
+        "Latitude": 22.44344,
+        "Longitude": 90.086175,
+        "Location Name": "Jhalokathi District, - 8550, Bangladesh"
+    },
+    "47": {
+        "Access to water (in Hrs)": 2.08,
+        "Access to electricity": 10,
+        "Access to cellphone": 9,
+        "Education completed": 49.1803278689,
+        "Wealth Index Factor Score": -0.444945,
+        "Latitude": 22.811281,
+        "Longitude": 90.031264,
+        "Location Name": "Daulbaridobra Union, Nazirpur Subdistrict, Bangladesh"
+    },
+    "48": {
+        "Access to water (in Hrs)": 1.33,
+        "Access to electricity": 3,
+        "Access to cellphone": 1,
+        "Education completed": 12.2950819672,
+        "Wealth Index Factor Score": -0.9488,
+        "Latitude": 22.644118,
+        "Longitude": 89.984122,
+        "Location Name": "Durgapur Union, -, Bangladesh"
+    },
+    "49": {
+        "Access to water (in Hrs)": 3.83,
+        "Access to electricity": 7,
+        "Access to cellphone": 10,
+        "Education completed": 31.1475409836,
+        "Wealth Index Factor Score": -1.025755,
+        "Latitude": 22.778483,
+        "Longitude": 90.018127,
+        "Location Name": "Dirgha Union, Nazirpur Subdistrict, Bangladesh"
+    },
+    "50": {
+        "Access to water (in Hrs)": 4.0,
+        "Access to electricity": 10,
+        "Access to cellphone": 12,
+        "Education completed": 36.8852459016,
+        "Wealth Index Factor Score": -1.218795,
+        "Latitude": 22.451479,
+        "Longitude": 89.96441,
+        "Location Name": "Balipara Union, -, Bangladesh"
+    },
+    "52": {
+        "Access to water (in Hrs)": 1.42,
+        "Access to electricity": 4,
+        "Access to cellphone": 6,
+        "Education completed": 10.6557377049,
+        "Wealth Index Factor Score": -1.254235,
+        "Latitude": 22.053795,
+        "Longitude": 89.968962,
+        "Location Name": "Barguna District, Patharghata -, Bangladesh"
+    },
+    "53": {
+        "Access to water (in Hrs)": 4.92,
+        "Access to electricity": 9,
+        "Access to cellphone": 7,
+        "Education completed": 26.2295081967,
+        "Wealth Index Factor Score": -0.95119,
+        "Latitude": 22.813022,
+        "Longitude": 90.191408,
+        "Location Name": "Barisal District, Barishal Division, Bangladesh"
+    },
+    "54": {
+        "Access to water (in Hrs)": 23.0,
+        "Access to electricity": 22,
+        "Access to cellphone": 21,
+        "Education completed": 56.5573770492,
+        "Wealth Index Factor Score": -1.19268,
+        "Latitude": 22.691392,
+        "Longitude": 90.389866,
+        "Location Name": "Barishal-Bhola Highway, Barisal Sadar Subdistrict, Barisal District - 8200, Bangladesh"
+    },
+    "55": {
+        "Access to water (in Hrs)": 1.83,
+        "Access to electricity": 4,
+        "Access to cellphone": 5,
+        "Education completed": 29.5081967213,
+        "Wealth Index Factor Score": -1.07757,
+        "Latitude": 22.691265,
+        "Longitude": 90.640443,
+        "Location Name": "Bhola District, Bhola -, Bangladesh"
+    },
+    "56": {
+        "Access to water (in Hrs)": 7.83,
+        "Access to electricity": 10,
+        "Access to cellphone": 8,
+        "Education completed": 7.3770491803,
+        "Wealth Index Factor Score": -1.111415,
+        "Latitude": 22.675413,
+        "Longitude": 90.649969,
+        "Location Name": "Bhola District, Bhola - 8300, Bangladesh"
+    },
+    "57": {
+        "Access to water (in Hrs)": 1.1,
+        "Access to electricity": 6,
+        "Access to cellphone": 5,
+        "Education completed": 27.868852459,
+        "Wealth Index Factor Score": -0.6863,
+        "Latitude": 22.203506,
+        "Longitude": 90.769957,
+        "Location Name": "Bhola District, Charfasson - 8340, Bangladesh"
+    },
+    "58": {
+        "Access to water (in Hrs)": 0.8,
+        "Access to electricity": 5,
+        "Access to cellphone": 6,
+        "Education completed": 11.4754098361,
+        "Wealth Index Factor Score": -0.254585,
+        "Latitude": 22.423514,
+        "Longitude": 90.855505,
+        "Location Name": "Bhola District, Tazumoddin -, Bangladesh"
+    },
+    "59": {
+        "Access to water (in Hrs)": 1.42,
+        "Access to electricity": 9,
+        "Access to cellphone": 11,
+        "Education completed": 17.2131147541,
+        "Wealth Index Factor Score": -0.66889,
+        "Latitude": 22.647414,
+        "Longitude": 90.187342,
+        "Location Name": "Barisal-Pirojpur Highway, Jhalokathi District, Jhalokathi - 8400, Bangladesh"
+    },
+    "60": {
+        "Access to water (in Hrs)": 0.58,
+        "Access to electricity": 4,
+        "Access to cellphone": 5,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.57649,
+        "Latitude": 22.416516,
+        "Longitude": 90.559619,
+        "Location Name": "Dumki - Bauphal - Dashmina - Galachipa Highway, Patuakhali District, Bauphal - 8624, Bangladesh"
+    },
+    "61": {
+        "Access to water (in Hrs)": 1.33,
+        "Access to electricity": 10,
+        "Access to cellphone": 7,
+        "Education completed": -95.9016393443,
+        "Wealth Index Factor Score": -0.3939,
+        "Latitude": 22.156934,
+        "Longitude": 90.413762,
+        "Location Name": "Patuakhali District, Golachipa -, Bangladesh"
+    },
+    "62": {
+        "Access to water (in Hrs)": 0.72,
+        "Access to electricity": 8,
+        "Access to cellphone": 8,
+        "Education completed": 40.1639344262,
+        "Wealth Index Factor Score": 0.08348,
+        "Latitude": 22.354346,
+        "Longitude": 90.361388,
+        "Location Name": "Bauphal Patuakhali Highway, Patuakhali District, Patuakhali - 8600, Bangladesh"
+    },
+    "63": {
+        "Access to water (in Hrs)": 1.0,
+        "Access to electricity": 8,
+        "Access to cellphone": 9,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": -0.446255,
+        "Latitude": 22.485769,
+        "Longitude": 90.082947,
+        "Location Name": "Pirojpur District, Bhandaria - 8550, Bangladesh"
+    },
+    "65": {
+        "Access to water (in Hrs)": 0.27,
+        "Access to electricity": 2,
+        "Access to cellphone": 3,
+        "Education completed": 7.3770491803,
+        "Wealth Index Factor Score": 0.04835,
+        "Latitude": 22.746376,
+        "Longitude": 90.103699,
+        "Location Name": "Swarupkathi-Kuriana-Atghar Road, Atghar Kuriana, Swarupkathi - 8530, Bangladesh"
+    },
+    "67": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 3,
+        "Access to cellphone": 2,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.66833,
+        "Latitude": 22.721949,
+        "Longitude": 90.379553,
+        "Location Name": "Barisal Sadar Subdistrict, Barisal District - 8200, Bangladesh"
+    },
+    "68": {
+        "Access to water (in Hrs)": 0.3,
+        "Access to electricity": 4,
+        "Access to cellphone": 3,
+        "Education completed": 6.5573770492,
+        "Wealth Index Factor Score": -0.18351,
+        "Latitude": 22.705225,
+        "Longitude": 90.37569,
+        "Location Name": "Port Road, Barisal Sadar Subdistrict, Barisal District - 8200, Bangladesh"
+    },
+    "69": {
+        "Access to water (in Hrs)": 2.75,
+        "Access to electricity": 10,
+        "Access to cellphone": 10,
+        "Education completed": 12.2950819672,
+        "Wealth Index Factor Score": -0.59876,
+        "Latitude": 22.691535,
+        "Longitude": 90.356402,
+        "Location Name": "Jumir Khan Road, Barisal Sadar Subdistrict, Barisal District - 8200, Bangladesh"
+    },
+    "70": {
+        "Access to water (in Hrs)": 7.58,
+        "Access to electricity": 16,
+        "Access to cellphone": 15,
+        "Education completed": 47.5409836066,
+        "Wealth Index Factor Score": -0.10962,
+        "Latitude": 22.714502,
+        "Longitude": 90.366331,
+        "Location Name": "Barisal Sadar Subdistrict, Barisal District - 8200, Bangladesh"
+    },
+    "72": {
+        "Access to water (in Hrs)": 5.83,
+        "Access to electricity": 15,
+        "Access to cellphone": 15,
+        "Education completed": 32.7868852459,
+        "Wealth Index Factor Score": -0.98775,
+        "Latitude": 22.717375,
+        "Longitude": 90.331419,
+        "Location Name": "Barisal Sadar Subdistrict, Barisal District - 8200, Bangladesh"
+    },
+    "73": {
+        "Access to water (in Hrs)": 0.75,
+        "Access to electricity": 7,
+        "Access to cellphone": 7,
+        "Education completed": 3.2786885246,
+        "Wealth Index Factor Score": -0.34013,
+        "Latitude": 22.182203,
+        "Longitude": 92.17762,
+        "Location Name": "Bandarban Hill District, Bandarban -, Bangladesh"
+    },
+    "74": {
+        "Access to water (in Hrs)": 0.67,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": 0.0315,
+        "Latitude": 23.9005,
+        "Longitude": 91.183934,
+        "Location Name": "Brahmanbaria, Brahmanbaria Sadar Upazila, Bangladesh"
+    },
+    "75": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": 1.62481,
+        "Latitude": 23.971862,
+        "Longitude": 91.210736,
+        "Location Name": "Brahmanbaria District, Champaknagar - 3450, Bangladesh"
+    },
+    "76": {
+        "Access to water (in Hrs)": 1.67,
+        "Access to electricity": 7,
+        "Access to cellphone": 8,
+        "Education completed": 36.8852459016,
+        "Wealth Index Factor Score": -0.044295,
+        "Latitude": 23.909941,
+        "Longitude": 91.103312,
+        "Location Name": "Brahmanbaria District, Brahmanbaria - 3400, Bangladesh"
+    },
+    "80": {
+        "Access to water (in Hrs)": 1.0,
+        "Access to electricity": 5,
+        "Access to cellphone": 5,
+        "Education completed": 8.1967213115,
+        "Wealth Index Factor Score": -0.38463,
+        "Latitude": 24.033775,
+        "Longitude": 91.078271,
+        "Location Name": "Brahmanbaria District, Ashuganj - 2350, Bangladesh"
+    },
+    "82": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 4.9180327869,
+        "Wealth Index Factor Score": -0.22624,
+        "Latitude": 23.177532,
+        "Longitude": 90.820205,
+        "Location Name": "Chandpur District, Subidpur -, Bangladesh"
+    },
+    "83": {
+        "Access to water (in Hrs)": 1.5,
+        "Access to electricity": 11,
+        "Access to cellphone": 10,
+        "Education completed": 13.1147540984,
+        "Wealth Index Factor Score": -0.70363,
+        "Latitude": 23.28997,
+        "Longitude": 90.809627,
+        "Location Name": "Chandpur District, Saidpur -, Bangladesh"
+    },
+    "84": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.54054,
+        "Latitude": 23.395942,
+        "Longitude": 90.848482,
+        "Location Name": "Gauripur - Kachua Road, Chandpur District, Palakhal - 3633, Bangladesh"
+    },
+    "85": {
+        "Access to water (in Hrs)": 2.0,
+        "Access to electricity": 12,
+        "Access to cellphone": 16,
+        "Education completed": 22.9508196721,
+        "Wealth Index Factor Score": -0.53105,
+        "Latitude": 23.421414,
+        "Longitude": 90.639666,
+        "Location Name": "Chandpur District, Gajra -, Bangladesh"
+    },
+    "86": {
+        "Access to water (in Hrs)": 0.58,
+        "Access to electricity": 5,
+        "Access to cellphone": 5,
+        "Education completed": 11.4754098361,
+        "Wealth Index Factor Score": 0.17686,
+        "Latitude": 22.195798,
+        "Longitude": 91.894607,
+        "Location Name": "Chattogram District, - 4376, Bangladesh"
+    },
+    "87": {
+        "Access to water (in Hrs)": 0.2,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 8.1967213115,
+        "Wealth Index Factor Score": -0.33857,
+        "Latitude": 22.072059,
+        "Longitude": 91.878742,
+        "Location Name": "Chattogram District, - 4393, Bangladesh"
+    },
+    "88": {
+        "Access to water (in Hrs)": 1.58,
+        "Access to electricity": 12,
+        "Access to cellphone": 15,
+        "Education completed": 61.4754098361,
+        "Wealth Index Factor Score": -0.16083,
+        "Latitude": 22.348601,
+        "Longitude": 91.959819,
+        "Location Name": "Preetilota Road, Chattogram District, Patiya -, Bangladesh"
+    },
+    "90": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 6.5573770492,
+        "Wealth Index Factor Score": -0.047835,
+        "Latitude": 22.538351,
+        "Longitude": 91.836292,
+        "Location Name": "Chittagong - Rangamati Road, Chattogram District, Raozan - 4340, Bangladesh"
+    },
+    "91": {
+        "Access to water (in Hrs)": 0.3,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 14.7540983607,
+        "Wealth Index Factor Score": 0.29894,
+        "Latitude": 22.432147,
+        "Longitude": 91.84893,
+        "Location Name": "Chattogram District, Hathazari Upazila - 4335, Bangladesh"
+    },
+    "92": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 8.1967213115,
+        "Wealth Index Factor Score": -0.34121,
+        "Latitude": 22.848709,
+        "Longitude": 91.501536,
+        "Location Name": "Chattogram District, - 4324, Bangladesh"
+    },
+    "93": {
+        "Access to water (in Hrs)": 0.67,
+        "Access to electricity": 3,
+        "Access to cellphone": 4,
+        "Education completed": 6.5573770492,
+        "Wealth Index Factor Score": -0.44358,
+        "Latitude": 22.308622,
+        "Longitude": 91.848356,
+        "Location Name": "Chattogram District, Chattogram - 4000, Bangladesh"
+    },
+    "94": {
+        "Access to water (in Hrs)": 0.52,
+        "Access to electricity": 5,
+        "Access to cellphone": 6,
+        "Education completed": 10.6557377049,
+        "Wealth Index Factor Score": -0.639345,
+        "Latitude": 22.344994,
+        "Longitude": 91.890215,
+        "Location Name": "Chattogram District, Chattogram -, Bangladesh"
+    },
+    "95": {
+        "Access to water (in Hrs)": 1.38,
+        "Access to electricity": 10,
+        "Access to cellphone": 10,
+        "Education completed": 16.393442623,
+        "Wealth Index Factor Score": -0.07263,
+        "Latitude": 22.479059,
+        "Longitude": 91.913243,
+        "Location Name": "Chattogram District, -, Bangladesh"
+    },
+    "96": {
+        "Access to water (in Hrs)": 3.85,
+        "Access to electricity": 18,
+        "Access to cellphone": 21,
+        "Education completed": 12.2950819672,
+        "Wealth Index Factor Score": -0.05037,
+        "Latitude": 22.460134,
+        "Longitude": 91.471237,
+        "Location Name": "Chattogram District, Sandwip -, Bangladesh"
+    },
+    "97": {
+        "Access to water (in Hrs)": 0.83,
+        "Access to electricity": 7,
+        "Access to cellphone": 7,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.11877,
+        "Latitude": 22.07245,
+        "Longitude": 92.075768,
+        "Location Name": "Chattogram District, Satkania - 4386, Bangladesh"
+    },
+    "98": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 3.2786885246,
+        "Wealth Index Factor Score": 0.02218,
+        "Latitude": 23.341949,
+        "Longitude": 90.966795,
+        "Location Name": "Cumilla District, -, Bangladesh"
+    },
+    "99": {
+        "Access to water (in Hrs)": 4.52,
+        "Access to electricity": 21,
+        "Access to cellphone": 21,
+        "Education completed": 10.6557377049,
+        "Wealth Index Factor Score": -0.22636,
+        "Latitude": 23.663781,
+        "Longitude": 91.08275,
+        "Location Name": "Cumilla District, Sidlai - 3526, Bangladesh"
+    },
+    "100": {
+        "Access to water (in Hrs)": 0.37,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 1.6393442623,
+        "Wealth Index Factor Score": -0.58673,
+        "Latitude": 23.507803,
+        "Longitude": 91.052861,
+        "Location Name": "Burichang Upazila, Bangladesh"
+    },
+    "101": {
+        "Access to water (in Hrs)": 4.3,
+        "Access to electricity": 15,
+        "Access to cellphone": 13,
+        "Education completed": 18.0327868852,
+        "Wealth Index Factor Score": -0.37533,
+        "Latitude": 23.451005,
+        "Longitude": 91.004537,
+        "Location Name": "Cumilla District, -, Bangladesh"
+    },
+    "102": {
+        "Access to water (in Hrs)": 1.08,
+        "Access to electricity": 6,
+        "Access to cellphone": 9,
+        "Education completed": 8.1967213115,
+        "Wealth Index Factor Score": -0.482465,
+        "Latitude": 23.253437,
+        "Longitude": 91.241721,
+        "Location Name": "Cumilla District, -, Bangladesh"
+    },
+    "103": {
+        "Access to water (in Hrs)": 0.58,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 3.2786885246,
+        "Wealth Index Factor Score": 0.191855,
+        "Latitude": 23.406869,
+        "Longitude": 91.231943,
+        "Location Name": "Cumilla District, Galiara - 3504, Bangladesh"
+    },
+    "104": {
+        "Access to water (in Hrs)": 0.67,
+        "Access to electricity": 4,
+        "Access to cellphone": 6,
+        "Education completed": 3.2786885246,
+        "Wealth Index Factor Score": -0.38992,
+        "Latitude": 23.657267,
+        "Longitude": 91.039356,
+        "Location Name": "Cumilla District, - 3526, Bangladesh"
+    },
+    "105": {
+        "Access to water (in Hrs)": 1.08,
+        "Access to electricity": 7,
+        "Access to cellphone": 6,
+        "Education completed": 9.8360655738,
+        "Wealth Index Factor Score": -0.17172,
+        "Latitude": 23.69461,
+        "Longitude": 90.841595,
+        "Location Name": "Cumilla District, Homna - 3546, Bangladesh"
+    },
+    "106": {
+        "Access to water (in Hrs)": 0.5,
+        "Access to electricity": 4,
+        "Access to cellphone": 4,
+        "Education completed": 9.8360655738,
+        "Wealth Index Factor Score": 0.05188,
+        "Latitude": 23.487165,
+        "Longitude": 91.217459,
+        "Location Name": "Cumilla District, Cumilla -, Bangladesh"
+    },
+    "107": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 4.9180327869,
+        "Wealth Index Factor Score": 0.034,
+        "Latitude": 23.180926,
+        "Longitude": 91.088629,
+        "Location Name": "Khila -Mella - Ashirpar Road, Cumilla District, Angaria - 3623, Bangladesh"
+    },
+    "108": {
+        "Access to water (in Hrs)": 1.08,
+        "Access to electricity": 9,
+        "Access to cellphone": 12,
+        "Education completed": 12.2950819672,
+        "Wealth Index Factor Score": -0.291135,
+        "Latitude": 23.612691,
+        "Longitude": 90.90789,
+        "Location Name": "Cumilla District, Muradnagar - 3540, Bangladesh"
+    },
+    "109": {
+        "Access to water (in Hrs)": 2.2,
+        "Access to electricity": 14,
+        "Access to cellphone": 15,
+        "Education completed": 31.9672131148,
+        "Wealth Index Factor Score": -0.0351,
+        "Latitude": 23.155552,
+        "Longitude": 91.12637,
+        "Location Name": "Cumilla-Laksham-Sonaimuri-Chowmuhani-Noakhali Highway, Cumilla District, Nather Patua - 3582, Bangladesh"
+    },
+    "110": {
+        "Access to water (in Hrs)": 1.58,
+        "Access to electricity": 11,
+        "Access to cellphone": 11,
+        "Education completed": 30.3278688525,
+        "Wealth Index Factor Score": -0.02511,
+        "Latitude": 23.579788,
+        "Longitude": 90.847662,
+        "Location Name": "Cumilla District, -, Bangladesh"
+    },
+    "111": {
+        "Access to water (in Hrs)": 2.83,
+        "Access to electricity": 10,
+        "Access to cellphone": 14,
+        "Education completed": 40.9836065574,
+        "Wealth Index Factor Score": -0.288785,
+        "Latitude": 21.841257,
+        "Longitude": 92.064185,
+        "Location Name": "Chattogram-Coxs Bazar Highway, Cox's Bazar District, Baraitoli -, Bangladesh"
+    },
+    "112": {
+        "Access to water (in Hrs)": 1.5,
+        "Access to electricity": 10,
+        "Access to cellphone": 11,
+        "Education completed": 16.393442623,
+        "Wealth Index Factor Score": -0.31148,
+        "Latitude": 21.545006,
+        "Longitude": 92.011641,
+        "Location Name": "Cox's Bazar District, Cox's Bazar - 4700, Bangladesh"
+    },
+    "113": {
+        "Access to water (in Hrs)": 0.5,
+        "Access to electricity": 4,
+        "Access to cellphone": 5,
+        "Education completed": 11.4754098361,
+        "Wealth Index Factor Score": 0.29168,
+        "Latitude": 21.643898,
+        "Longitude": 91.967913,
+        "Location Name": "Cox's Bazar District, -, Bangladesh"
+    },
+    "114": {
+        "Access to water (in Hrs)": 34.58,
+        "Access to electricity": 28,
+        "Access to cellphone": 23,
+        "Education completed": 34.4262295082,
+        "Wealth Index Factor Score": -1.05697,
+        "Latitude": 21.078928,
+        "Longitude": 92.140053,
+        "Location Name": "Camp 23, Inani-Shamlapur, Rohingya Refugee Camp in Bangladesh -, Bangladesh"
+    },
+    "115": {
+        "Access to water (in Hrs)": 0.92,
+        "Access to electricity": 3,
+        "Access to cellphone": 2,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": -0.14921,
+        "Latitude": 23.089339,
+        "Longitude": 91.509335,
+        "Location Name": "Sattanagar Road, Feni District, -, Bangladesh"
+    },
+    "116": {
+        "Access to water (in Hrs)": 3.58,
+        "Access to electricity": 8,
+        "Access to cellphone": 9,
+        "Education completed": 33.606557377,
+        "Wealth Index Factor Score": -0.48757,
+        "Latitude": 23.016287,
+        "Longitude": 91.406472,
+        "Location Name": "Feni District, Feni - 3900, Bangladesh"
+    },
+    "117": {
+        "Access to water (in Hrs)": 2.53,
+        "Access to electricity": 19,
+        "Access to cellphone": 19,
+        "Education completed": -100.0,
+        "Wealth Index Factor Score": 1.52163,
+        "Latitude": 23.14609,
+        "Longitude": 91.398905,
+        "Location Name": "Feni District, Parshuram -, Bangladesh"
+    },
+    "118": {
+        "Access to water (in Hrs)": 4.33,
+        "Access to electricity": 18,
+        "Access to cellphone": 18,
+        "Education completed": 80.3278688525,
+        "Wealth Index Factor Score": 1.207865,
+        "Latitude": 22.855415,
+        "Longitude": 91.406385,
+        "Location Name": "Feni - Sonagazi - Muhuriganj Project Road, Motiganj, Sujapur - 3930, Bangladesh"
+    },
+    "119": {
+        "Access to water (in Hrs)": 1.08,
+        "Access to electricity": 5,
+        "Access to cellphone": 5,
+        "Education completed": 13.9344262295,
+        "Wealth Index Factor Score": 0.90421,
+        "Latitude": 23.375718,
+        "Longitude": 91.931921,
+        "Location Name": "Chengi, Khagrachari Hill District, Bangladesh"
+    },
+    "120": {
+        "Access to water (in Hrs)": 6.33,
+        "Access to electricity": 19,
+        "Access to cellphone": 18,
+        "Education completed": 64.7540983607,
+        "Wealth Index Factor Score": 1.10874,
+        "Latitude": 23.037592,
+        "Longitude": 90.848451,
+        "Location Name": "Lakshmipur District, Ramganj Upazila -, Bangladesh"
+    },
+    "121": {
+        "Access to water (in Hrs)": 0.58,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 17.2131147541,
+        "Wealth Index Factor Score": 1.5389,
+        "Latitude": 23.008892,
+        "Longitude": 90.884931,
+        "Location Name": "Lakshmipur District, Dilshad Pur -, Bangladesh"
+    },
+    "122": {
+        "Access to water (in Hrs)": 6.68,
+        "Access to electricity": 28,
+        "Access to cellphone": 28,
+        "Education completed": 7.3770491803,
+        "Wealth Index Factor Score": 0.91997,
+        "Latitude": 22.932201,
+        "Longitude": 90.736281,
+        "Location Name": "Lakshmipur District, -, Bangladesh"
+    },
+    "124": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 7.3770491803,
+        "Wealth Index Factor Score": 1.41347,
+        "Latitude": 22.926246,
+        "Longitude": 91.114298,
+        "Location Name": "Begumganj Upazila, Chowmuhani - 0321, Bangladesh"
+    },
+    "126": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 16.393442623,
+        "Wealth Index Factor Score": 1.36475,
+        "Latitude": 22.584458,
+        "Longitude": 91.142102,
+        "Location Name": "Noakhali District, -, Bangladesh"
+    },
+    "127": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 16.393442623,
+        "Wealth Index Factor Score": 1.051545,
+        "Latitude": 22.786731,
+        "Longitude": 91.202031,
+        "Location Name": "Noakhali District, Noakhali -, Bangladesh"
+    },
+    "128": {
+        "Access to water (in Hrs)": 0.67,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 13.9344262295,
+        "Wealth Index Factor Score": 1.79218,
+        "Latitude": 22.861805,
+        "Longitude": 91.211075,
+        "Location Name": "Noakhali District, Kabirhat - 3862, Bangladesh"
+    },
+    "131": {
+        "Access to water (in Hrs)": 4.42,
+        "Access to electricity": 16,
+        "Access to cellphone": 16,
+        "Education completed": -94.262295082,
+        "Wealth Index Factor Score": 1.77041,
+        "Latitude": 22.658197,
+        "Longitude": 92.037981,
+        "Location Name": "Kaukhali, Rangamati Hill District, Bangladesh"
+    },
+    "132": {
+        "Access to water (in Hrs)": 7.28,
+        "Access to electricity": 26,
+        "Access to cellphone": 23,
+        "Education completed": 100.0,
+        "Wealth Index Factor Score": 0.901905,
+        "Latitude": 23.970201,
+        "Longitude": 91.10179,
+        "Location Name": "Brahmanbaria District, Brahmanbaria - 3400, Bangladesh"
+    },
+    "133": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 4.0983606557,
+        "Wealth Index Factor Score": 1.1996,
+        "Latitude": 23.883467,
+        "Longitude": 90.95895,
+        "Location Name": "Brahmanbaria District, Nabinagar - 3410, Bangladesh"
+    },
+    "134": {
+        "Access to water (in Hrs)": 1.58,
+        "Access to electricity": 10,
+        "Access to cellphone": 8,
+        "Education completed": 32.7868852459,
+        "Wealth Index Factor Score": 0.80685,
+        "Latitude": 23.216973,
+        "Longitude": 90.665393,
+        "Location Name": "Z1412, Chandpur District, Chandpur - 3602, Bangladesh"
+    },
+    "135": {
+        "Access to water (in Hrs)": 1.33,
+        "Access to electricity": 6,
+        "Access to cellphone": 6,
+        "Education completed": 29.5081967213,
+        "Wealth Index Factor Score": 1.384885,
+        "Latitude": 23.419972,
+        "Longitude": 90.625054,
+        "Location Name": "Chandpur District, Chengarchar -, Bangladesh"
+    },
+    "137": {
+        "Access to water (in Hrs)": 3.75,
+        "Access to electricity": 18,
+        "Access to cellphone": 16,
+        "Education completed": -102.4590163934,
+        "Wealth Index Factor Score": 1.725245,
+        "Latitude": 22.499116,
+        "Longitude": 91.443247,
+        "Location Name": "Sondip, \u09b0\u09b9\u09ae\u09a4\u09aa\u09c1\u09b0, Sandwip, Bangladesh"
+    },
+    "139": {
+        "Access to water (in Hrs)": 3.38,
+        "Access to electricity": 24,
+        "Access to cellphone": 23,
+        "Education completed": 75.4098360656,
+        "Wealth Index Factor Score": 0.357485,
+        "Latitude": 23.687072,
+        "Longitude": 90.767151,
+        "Location Name": "Cumilla District, Homna - 3546, Bangladesh"
+    },
+    "141": {
+        "Access to water (in Hrs)": 0.37,
+        "Access to electricity": 3,
+        "Access to cellphone": 4,
+        "Education completed": 16.393442623,
+        "Wealth Index Factor Score": 0.75077,
+        "Latitude": 21.74813,
+        "Longitude": 92.080149,
+        "Location Name": "Chattogram-Coxs Bazar Highway, Cox's Bazar District, Chakaria - 4740, Bangladesh"
+    },
+    "142": {
+        "Access to water (in Hrs)": 0.58,
+        "Access to electricity": 6,
+        "Access to cellphone": 5,
+        "Education completed": 14.7540983607,
+        "Wealth Index Factor Score": -0.06018,
+        "Latitude": 21.511653,
+        "Longitude": 91.964957,
+        "Location Name": "Cox's Bazar District, Moheshkhali -, Bangladesh"
+    },
+    "143": {
+        "Access to water (in Hrs)": 3.83,
+        "Access to electricity": 15,
+        "Access to cellphone": 15,
+        "Education completed": 40.1639344262,
+        "Wealth Index Factor Score": -0.64291,
+        "Latitude": 23.000689,
+        "Longitude": 91.404457,
+        "Location Name": "Feni District, Feni - 3900, Bangladesh"
+    },
+    "144": {
+        "Access to water (in Hrs)": 3.58,
+        "Access to electricity": 17,
+        "Access to cellphone": 15,
+        "Education completed": 64.7540983607,
+        "Wealth Index Factor Score": -0.28318,
+        "Latitude": 23.091378,
+        "Longitude": 91.976041,
+        "Location Name": "R162, Khagrachari Hill District, Khagrachhari -, Bangladesh"
+    },
+    "145": {
+        "Access to water (in Hrs)": 1.17,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 4.0983606557,
+        "Wealth Index Factor Score": -1.12092,
+        "Latitude": 22.929491,
+        "Longitude": 90.85391,
+        "Location Name": "Lakshmipur District, Lakshmipur - 3700, Bangladesh"
+    },
+    "146": {
+        "Access to water (in Hrs)": 2.63,
+        "Access to electricity": 14,
+        "Access to cellphone": 12,
+        "Education completed": 42.6229508197,
+        "Wealth Index Factor Score": -1.05078,
+        "Latitude": 22.928646,
+        "Longitude": 91.134962,
+        "Location Name": "Begumganj Upazila, Hazipur - 0321, Bangladesh"
+    },
+    "147": {
+        "Access to water (in Hrs)": 3.5,
+        "Access to electricity": 17,
+        "Access to cellphone": 16,
+        "Education completed": 28.6885245902,
+        "Wealth Index Factor Score": -1.0716,
+        "Latitude": 23.025383,
+        "Longitude": 91.080786,
+        "Location Name": "Begumganj Upazila, Sonaimuri -, Bangladesh"
+    },
+    "148": {
+        "Access to water (in Hrs)": 2.08,
+        "Access to electricity": 8,
+        "Access to cellphone": 7,
+        "Education completed": 22.9508196721,
+        "Wealth Index Factor Score": -1.09167,
+        "Latitude": 22.635149,
+        "Longitude": 92.188262,
+        "Location Name": "Rangamati Hill District, Rangamati - 0351, Bangladesh"
+    },
+    "149": {
+        "Access to water (in Hrs)": 2.42,
+        "Access to electricity": 6,
+        "Access to cellphone": 7,
+        "Education completed": 18.0327868852,
+        "Wealth Index Factor Score": -0.89227,
+        "Latitude": 22.387797,
+        "Longitude": 91.814114,
+        "Location Name": "Bayejid Bostami, Chattogram - 4210, Bangladesh"
+    },
+    "150": {
+        "Access to water (in Hrs)": 1.58,
+        "Access to electricity": 6,
+        "Access to cellphone": 6,
+        "Education completed": 11.4754098361,
+        "Wealth Index Factor Score": -0.93357,
+        "Latitude": 22.351414,
+        "Longitude": 91.826703,
+        "Location Name": "Chattogram District, Chattogram - 4200, Bangladesh"
+    },
+    "151": {
+        "Access to water (in Hrs)": 0.75,
+        "Access to electricity": 5,
+        "Access to cellphone": 4,
+        "Education completed": 15.5737704918,
+        "Wealth Index Factor Score": 0.62299,
+        "Latitude": 22.334058,
+        "Longitude": 91.842549,
+        "Location Name": "Chattogram District, Chattogram - 4000, Bangladesh"
+    },
+    "152": {
+        "Access to water (in Hrs)": 4.33,
+        "Access to electricity": 19,
+        "Access to cellphone": 14,
+        "Education completed": 8.1967213115,
+        "Wealth Index Factor Score": -1.00699,
+        "Latitude": 22.379216,
+        "Longitude": 91.846664,
+        "Location Name": "Road No. 07, Chattogram District, Chattogram - 4212, Bangladesh"
+    },
+    "153": {
+        "Access to water (in Hrs)": 2.5,
+        "Access to electricity": 8,
+        "Access to cellphone": 7,
+        "Education completed": 4.9180327869,
+        "Wealth Index Factor Score": -0.99912,
+        "Latitude": 22.36171,
+        "Longitude": 91.849321,
+        "Location Name": "Chattogram District, Chattogram - 4208, Bangladesh"
+    },
+    "154": {
+        "Access to water (in Hrs)": 5.0,
+        "Access to electricity": 15,
+        "Access to cellphone": 10,
+        "Education completed": 7.3770491803,
+        "Wealth Index Factor Score": -1.00755,
+        "Latitude": 22.283092,
+        "Longitude": 91.775703,
+        "Location Name": "Bandar, Chattogram - 4218, Bangladesh"
+    },
+    "155": {
+        "Access to water (in Hrs)": 9.5,
+        "Access to electricity": 28,
+        "Access to cellphone": 22,
+        "Education completed": 15.5737704918,
+        "Wealth Index Factor Score": -0.88146,
+        "Latitude": 22.339005,
+        "Longitude": 91.808388,
+        "Location Name": "Chattogram District, Chattogram - 4100, Bangladesh"
+    },
+    "156": {
+        "Access to water (in Hrs)": 6.33,
+        "Access to electricity": 9,
+        "Access to cellphone": 10,
+        "Education completed": 13.9344262295,
+        "Wealth Index Factor Score": -0.79266,
+        "Latitude": 22.329686,
+        "Longitude": 91.82487,
+        "Location Name": "M/s. Khaleque & Brothers, Darogahat Road, East Madarbari, Chattogram, Kamalgate, Agrabad, Chattogram - 4000, Bangladesh"
+    },
+    "157": {
+        "Access to water (in Hrs)": 2.08,
+        "Access to electricity": 11,
+        "Access to cellphone": 11,
+        "Education completed": 32.7868852459,
+        "Wealth Index Factor Score": -0.42018,
+        "Latitude": 22.332378,
+        "Longitude": 91.782403,
+        "Location Name": "Artillery Road, HaliShohor, Chattogram - 4216, Bangladesh"
+    },
+    "158": {
+        "Access to water (in Hrs)": 0.58,
+        "Access to electricity": 5,
+        "Access to cellphone": 5,
+        "Education completed": 10.6557377049,
+        "Wealth Index Factor Score": -0.38781,
+        "Latitude": 22.349132,
+        "Longitude": 91.838284,
+        "Location Name": "Sirajuddowla Road, Chattogram District, Chattogram - 4000, Bangladesh"
+    },
+    "159": {
+        "Access to water (in Hrs)": 3.67,
+        "Access to electricity": 17,
+        "Access to cellphone": 17,
+        "Education completed": 21.3114754098,
+        "Wealth Index Factor Score": -0.43599,
+        "Latitude": 22.336602,
+        "Longitude": 91.834049,
+        "Location Name": "Road 1, Chattogram District, Chattogram - 4000, Bangladesh"
+    },
+    "160": {
+        "Access to water (in Hrs)": 0.42,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": -0.705225,
+        "Latitude": 22.362932,
+        "Longitude": 91.796374,
+        "Location Name": "Khulshi, Chattogram - 4505, Bangladesh"
+    },
+    "161": {
+        "Access to water (in Hrs)": 0.42,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 8.1967213115,
+        "Wealth Index Factor Score": -0.33451,
+        "Latitude": 22.348849,
+        "Longitude": 91.809649,
+        "Location Name": "Chattogram District, Chattogram - 4225, Bangladesh"
+    },
+    "162": {
+        "Access to water (in Hrs)": 1.83,
+        "Access to electricity": 10,
+        "Access to cellphone": 9,
+        "Education completed": 42.6229508197,
+        "Wealth Index Factor Score": -0.221015,
+        "Latitude": 22.341069,
+        "Longitude": 91.784097,
+        "Location Name": "Road-2, HaliShohor, Chattogram - 4219, Bangladesh"
+    },
+    "163": {
+        "Access to water (in Hrs)": 1.17,
+        "Access to electricity": 11,
+        "Access to cellphone": 11,
+        "Education completed": 41.8032786885,
+        "Wealth Index Factor Score": -0.84184,
+        "Latitude": 22.371527,
+        "Longitude": 91.8136,
+        "Location Name": "Chittagong Mohila Technical Training Center, Polytechnic Road, Bayejid Bostami, Chattogram - 4213, Bangladesh"
+    },
+    "164": {
+        "Access to water (in Hrs)": 1.42,
+        "Access to electricity": 7,
+        "Access to cellphone": 7,
+        "Education completed": 20.4918032787,
+        "Wealth Index Factor Score": -0.88139,
+        "Latitude": 22.253995,
+        "Longitude": 91.803506,
+        "Location Name": "Chattogram District, Chattogram - 4222, Bangladesh"
+    },
+    "165": {
+        "Access to water (in Hrs)": 7.83,
+        "Access to electricity": 7,
+        "Access to cellphone": 9,
+        "Education completed": 9.8360655738,
+        "Wealth Index Factor Score": -1.033865,
+        "Latitude": 23.927149,
+        "Longitude": 90.174984,
+        "Location Name": "Dhaka District, Dhamrai Subdistrict - 1350, Bangladesh"
+    },
+    "166": {
+        "Access to water (in Hrs)": 0.42,
+        "Access to electricity": 4,
+        "Access to cellphone": 3,
+        "Education completed": 2.4590163934,
+        "Wealth Index Factor Score": -0.96898,
+        "Latitude": 23.739849,
+        "Longitude": 90.273257,
+        "Location Name": "Dhaka District, - 1313, Bangladesh"
+    },
+    "167": {
+        "Access to water (in Hrs)": 3.25,
+        "Access to electricity": 20,
+        "Access to cellphone": 19,
+        "Education completed": 77.0491803279,
+        "Wealth Index Factor Score": -0.48112,
+        "Latitude": 23.6671,
+        "Longitude": 90.411189,
+        "Location Name": "Jhilmil Residential, - 1204, Bangladesh"
+    },
+    "168": {
+        "Access to water (in Hrs)": 1.5,
+        "Access to electricity": 14,
+        "Access to cellphone": 12,
+        "Education completed": 28.6885245902,
+        "Wealth Index Factor Score": -0.36619,
+        "Latitude": 23.885476,
+        "Longitude": 90.289715,
+        "Location Name": "Dhaka District, Basaid - 1341, Bangladesh"
+    },
+    "170": {
+        "Access to water (in Hrs)": 5.42,
+        "Access to electricity": 18,
+        "Access to cellphone": 16,
+        "Education completed": 28.6885245902,
+        "Wealth Index Factor Score": -0.835,
+        "Latitude": 23.907445,
+        "Longitude": 90.309855,
+        "Location Name": "Jirabo, Savar - 1341, Bangladesh"
+    },
+    "171": {
+        "Access to water (in Hrs)": 2.58,
+        "Access to electricity": 10,
+        "Access to cellphone": 10,
+        "Education completed": 8.1967213115,
+        "Wealth Index Factor Score": -1.13081,
+        "Latitude": 23.338136,
+        "Longitude": 89.730767,
+        "Location Name": "Shekhar, Boalmari Upazila, Bangladesh"
+    },
+    "172": {
+        "Access to water (in Hrs)": 6.17,
+        "Access to electricity": 16,
+        "Access to cellphone": 16,
+        "Education completed": 63.9344262295,
+        "Wealth Index Factor Score": 0.75266,
+        "Latitude": 23.596106,
+        "Longitude": 89.584005,
+        "Location Name": "Faridpur District, -, Bangladesh"
+    },
+    "173": {
+        "Access to water (in Hrs)": 7.58,
+        "Access to electricity": 28,
+        "Access to cellphone": 25,
+        "Education completed": 76.2295081967,
+        "Wealth Index Factor Score": -0.3888,
+        "Latitude": 23.393074,
+        "Longitude": 89.783604,
+        "Location Name": "Faridpur District, Sonapur -, Bangladesh"
+    },
+    "175": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 3.2786885246,
+        "Wealth Index Factor Score": -0.93432,
+        "Latitude": 24.138417,
+        "Longitude": 90.416373,
+        "Location Name": "Dhaka-Mymensingh, Mawna, - 1702, Bangladesh"
+    },
+    "176": {
+        "Access to water (in Hrs)": 1.63,
+        "Access to electricity": 8,
+        "Access to cellphone": 7,
+        "Education completed": 22.131147541,
+        "Wealth Index Factor Score": -0.218055,
+        "Latitude": 24.026601,
+        "Longitude": 90.588537,
+        "Location Name": "Gazipur District, -, Bangladesh"
+    },
+    "177": {
+        "Access to water (in Hrs)": 8.58,
+        "Access to electricity": 24,
+        "Access to cellphone": 23,
+        "Education completed": 48.3606557377,
+        "Wealth Index Factor Score": -0.86551,
+        "Latitude": 24.176305,
+        "Longitude": 90.50371,
+        "Location Name": "Sreepur, Sreepur Upazila (Gazipur), Bangladesh"
+    },
+    "178": {
+        "Access to water (in Hrs)": 1.33,
+        "Access to electricity": 5,
+        "Access to cellphone": 4,
+        "Education completed": 13.1147540984,
+        "Wealth Index Factor Score": -0.36899,
+        "Latitude": 23.10076,
+        "Longitude": 89.821057,
+        "Location Name": "Kashiani Upazila, Bangladesh"
+    },
+    "179": {
+        "Access to water (in Hrs)": 3.53,
+        "Access to electricity": 14,
+        "Access to cellphone": 16,
+        "Education completed": 58.1967213115,
+        "Wealth Index Factor Score": -0.295255,
+        "Latitude": 23.247003,
+        "Longitude": 89.907728,
+        "Location Name": "Gopalganj District, Muksudpur - 8140, Bangladesh"
+    },
+    "180": {
+        "Access to water (in Hrs)": 6.0,
+        "Access to electricity": 29,
+        "Access to cellphone": 26,
+        "Education completed": -78.6885245902,
+        "Wealth Index Factor Score": 1.02419,
+        "Latitude": 25.282159,
+        "Longitude": 89.78727,
+        "Location Name": "Hatebhanga, Dewanganj Upazila, Bangladesh"
+    },
+    "181": {
+        "Access to water (in Hrs)": 1.5,
+        "Access to electricity": 12,
+        "Access to cellphone": 12,
+        "Education completed": 63.1147540984,
+        "Wealth Index Factor Score": 0.83584,
+        "Latitude": 24.754579,
+        "Longitude": 89.896732,
+        "Location Name": "Jamalpur District, Mahadan Union -, Bangladesh"
+    },
+    "182": {
+        "Access to water (in Hrs)": 3.0,
+        "Access to electricity": 23,
+        "Access to cellphone": 22,
+        "Education completed": 91.8032786885,
+        "Wealth Index Factor Score": 1.01869,
+        "Latitude": 24.884573,
+        "Longitude": 89.740785,
+        "Location Name": "Jamalpur District, Gunaritala -, Bangladesh"
+    },
+    "185": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": 0.5883,
+        "Latitude": 24.506715,
+        "Longitude": 90.840483,
+        "Location Name": "Karimganj Upazila, Kishoreganj District, Bangladesh"
+    },
+    "186": {
+        "Access to water (in Hrs)": 1.0,
+        "Access to electricity": 14,
+        "Access to cellphone": 14,
+        "Education completed": 35.2459016393,
+        "Wealth Index Factor Score": 1.00326,
+        "Latitude": 24.387354,
+        "Longitude": 90.866996,
+        "Location Name": "Kishoreganj District, Karimganj Upazila -, Bangladesh"
+    },
+    "187": {
+        "Access to water (in Hrs)": 0.5,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 14.7540983607,
+        "Wealth Index Factor Score": 1.51798,
+        "Latitude": 24.362242,
+        "Longitude": 90.967685,
+        "Location Name": "Kishoreganj District, -, Bangladesh"
+    },
+    "189": {
+        "Access to water (in Hrs)": 0.0,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 7.3770491803,
+        "Wealth Index Factor Score": 1.18091,
+        "Latitude": 23.437457,
+        "Longitude": 90.133216,
+        "Location Name": "Shibchar Upazila, Bangladesh"
+    },
+    "190": {
+        "Access to water (in Hrs)": 4.25,
+        "Access to electricity": 16,
+        "Access to cellphone": 15,
+        "Education completed": 57.3770491803,
+        "Wealth Index Factor Score": 0.08312,
+        "Latitude": 23.839892,
+        "Longitude": 89.935902,
+        "Location Name": "Manikganj District, Nali -, Bangladesh"
+    },
+    "191": {
+        "Access to water (in Hrs)": 2.5,
+        "Access to electricity": 11,
+        "Access to cellphone": 11,
+        "Education completed": 57.3770491803,
+        "Wealth Index Factor Score": -0.43354,
+        "Latitude": 23.929601,
+        "Longitude": 90.054152,
+        "Location Name": "Dhankora, Saturia Subdistrict, Bangladesh"
+    },
+    "192": {
+        "Access to water (in Hrs)": 1.5,
+        "Access to electricity": 7,
+        "Access to cellphone": 6,
+        "Education completed": 14.7540983607,
+        "Wealth Index Factor Score": 0.49383,
+        "Latitude": 23.552557,
+        "Longitude": 90.629939,
+        "Location Name": "Munshiganj District, Gazaria - 1510, Bangladesh"
+    },
+    "193": {
+        "Access to water (in Hrs)": 3.08,
+        "Access to electricity": 15,
+        "Access to cellphone": 14,
+        "Education completed": 65.5737704918,
+        "Wealth Index Factor Score": -0.297555,
+        "Latitude": 23.639619,
+        "Longitude": 90.400212,
+        "Location Name": "Munshiganj District, -, Bangladesh"
+    },
+    "194": {
+        "Access to water (in Hrs)": 2.83,
+        "Access to electricity": 16,
+        "Access to cellphone": 18,
+        "Education completed": 48.3606557377,
+        "Wealth Index Factor Score": -0.245365,
+        "Latitude": 23.542224,
+        "Longitude": 90.477999,
+        "Location Name": "Munshiganj District, Tongibari Upazila - 1502, Bangladesh"
+    },
+    "197": {
+        "Access to water (in Hrs)": 5.25,
+        "Access to electricity": 16,
+        "Access to cellphone": 17,
+        "Education completed": -86.0655737705,
+        "Wealth Index Factor Score": -0.41725,
+        "Latitude": 24.735093,
+        "Longitude": 90.543461,
+        "Location Name": "Mymensingh - kishoreganj Highway, Mymensingh District, Ishwarganj - 2270, Bangladesh"
+    },
+    "198": {
+        "Access to water (in Hrs)": 4.67,
+        "Access to electricity": 18,
+        "Access to cellphone": 18,
+        "Education completed": 52.4590163934,
+        "Wealth Index Factor Score": -0.63571,
+        "Latitude": 24.62497,
+        "Longitude": 90.592487,
+        "Location Name": "Ucakhila Road, Mymensingh District, Kathal - 2280, Bangladesh"
+    },
+    "199": {
+        "Access to water (in Hrs)": 2.0,
+        "Access to electricity": 9,
+        "Access to cellphone": 4,
+        "Education completed": 9.8360655738,
+        "Wealth Index Factor Score": -1.000055,
+        "Latitude": 24.764044,
+        "Longitude": 90.362795,
+        "Location Name": "Mymensingh District, Mymensingh - 2200, Bangladesh"
+    },
+    "200": {
+        "Access to water (in Hrs)": 6.25,
+        "Access to electricity": 15,
+        "Access to cellphone": 11,
+        "Education completed": 13.9344262295,
+        "Wealth Index Factor Score": -1.045615,
+        "Latitude": 24.560352,
+        "Longitude": 90.578894,
+        "Location Name": "Kanurampur-Modhupur Road, Mymensingh District, Modhupur -, Bangladesh"
+    },
+    "201": {
+        "Access to water (in Hrs)": 2.33,
+        "Access to electricity": 14,
+        "Access to cellphone": 13,
+        "Education completed": 49.1803278689,
+        "Wealth Index Factor Score": -0.239065,
+        "Latitude": 24.8786,
+        "Longitude": 90.362799,
+        "Location Name": "Rahinganj, Phulpur Upazila, Bangladesh"
+    },
+    "202": {
+        "Access to water (in Hrs)": 1.5,
+        "Access to electricity": 13,
+        "Access to cellphone": 13,
+        "Education completed": 28.6885245902,
+        "Wealth Index Factor Score": 0.092115,
+        "Latitude": 24.622433,
+        "Longitude": 90.466806,
+        "Location Name": "Mymensingh-Gafargaon Highway, Mymensingh District, Balipara - 2220, Bangladesh"
+    },
+    "204": {
+        "Access to water (in Hrs)": 2.42,
+        "Access to electricity": 12,
+        "Access to cellphone": 12,
+        "Education completed": 22.9508196721,
+        "Wealth Index Factor Score": -0.973205,
+        "Latitude": 23.638455,
+        "Longitude": 90.488824,
+        "Location Name": "Fatullah, Narayanganj - 1401, Bangladesh"
+    },
+    "205": {
+        "Access to water (in Hrs)": 1.83,
+        "Access to electricity": 8,
+        "Access to cellphone": 10,
+        "Education completed": 21.3114754098,
+        "Wealth Index Factor Score": -0.962995,
+        "Latitude": 23.690025,
+        "Longitude": 90.49838,
+        "Location Name": "Matin Road, Shiddhirganj, Narayanganj - 1430, Bangladesh"
+    },
+    "206": {
+        "Access to water (in Hrs)": 15.75,
+        "Access to electricity": 26,
+        "Access to cellphone": 26,
+        "Education completed": 54.0983606557,
+        "Wealth Index Factor Score": -0.36696,
+        "Latitude": 24.1354,
+        "Longitude": 90.827319,
+        "Location Name": "Narsingdi District, Belabo - 1640, Bangladesh"
+    },
+    "207": {
+        "Access to water (in Hrs)": 1.08,
+        "Access to electricity": 9,
+        "Access to cellphone": 9,
+        "Education completed": 24.5901639344,
+        "Wealth Index Factor Score": -0.88284,
+        "Latitude": 23.934481,
+        "Longitude": 90.750293,
+        "Location Name": "Narsingdi District, - 1602, Bangladesh"
+    },
+    "208": {
+        "Access to water (in Hrs)": 3.08,
+        "Access to electricity": 15,
+        "Access to cellphone": 14,
+        "Education completed": 58.1967213115,
+        "Wealth Index Factor Score": -0.07095,
+        "Latitude": 23.875405,
+        "Longitude": 90.882301,
+        "Location Name": "Char Madhua, Raipura Upazila, Bangladesh"
+    },
+    "209": {
+        "Access to water (in Hrs)": 2.33,
+        "Access to electricity": 9,
+        "Access to cellphone": 9,
+        "Education completed": 21.3114754098,
+        "Wealth Index Factor Score": -0.61477,
+        "Latitude": 23.972384,
+        "Longitude": 90.700755,
+        "Location Name": "Narsingdi District, - 1600, Bangladesh"
+    },
+    "210": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.42273,
+        "Latitude": 24.775704,
+        "Longitude": 91.100044,
+        "Location Name": "Netrokona District, Khaliajuri Upazila -, Bangladesh"
+    },
+    "211": {
+        "Access to water (in Hrs)": 4.33,
+        "Access to electricity": 24,
+        "Access to cellphone": 25,
+        "Education completed": 83.606557377,
+        "Wealth Index Factor Score": -0.21264,
+        "Latitude": 24.60061,
+        "Longitude": 90.815498,
+        "Location Name": "Netrokona District, Kendua Upazila -, Bangladesh"
+    },
+    "212": {
+        "Access to water (in Hrs)": 4.42,
+        "Access to electricity": 18,
+        "Access to cellphone": 17,
+        "Education completed": 65.5737704918,
+        "Wealth Index Factor Score": 0.13252,
+        "Latitude": 24.881101,
+        "Longitude": 90.818486,
+        "Location Name": "Netrokona District, Sahata -, Bangladesh"
+    },
+    "213": {
+        "Access to water (in Hrs)": 0.83,
+        "Access to electricity": 5,
+        "Access to cellphone": 5,
+        "Education completed": 19.6721311475,
+        "Wealth Index Factor Score": -1.02764,
+        "Latitude": 23.714073,
+        "Longitude": 89.738859,
+        "Location Name": "Dhaka-Faridpur Highway;, Rajbari District, Goalanda - 7710, Bangladesh"
+    },
+    "214": {
+        "Access to water (in Hrs)": 1.63,
+        "Access to electricity": 10,
+        "Access to cellphone": 10,
+        "Education completed": 10.6557377049,
+        "Wealth Index Factor Score": -0.96502,
+        "Latitude": 23.756238,
+        "Longitude": 89.65517,
+        "Location Name": "Rajbari District, Rajbari - 7700, Bangladesh"
+    },
+    "215": {
+        "Access to water (in Hrs)": 5.67,
+        "Access to electricity": 16,
+        "Access to cellphone": 20,
+        "Education completed": 37.7049180328,
+        "Wealth Index Factor Score": -0.955555,
+        "Latitude": 23.075546,
+        "Longitude": 90.490028,
+        "Location Name": "Goshairhat, Gosairhat Upazila, Bangladesh"
+    },
+    "216": {
+        "Access to water (in Hrs)": 1.78,
+        "Access to electricity": 11,
+        "Access to cellphone": 6,
+        "Education completed": 27.0491803279,
+        "Wealth Index Factor Score": -0.90067,
+        "Latitude": 23.39507,
+        "Longitude": 90.252006,
+        "Location Name": "Chan Mia Store, Service Area 2 Road, Shariatpur District, Naodoba - 8010, Bangladesh"
+    },
+    "217": {
+        "Access to water (in Hrs)": 2.17,
+        "Access to electricity": 11,
+        "Access to cellphone": 11,
+        "Education completed": 27.0491803279,
+        "Wealth Index Factor Score": -0.47316,
+        "Latitude": 25.168565,
+        "Longitude": 90.165667,
+        "Location Name": "Sherpur District, Nunni Paragon -, Bangladesh"
+    },
+    "218": {
+        "Access to water (in Hrs)": 1.83,
+        "Access to electricity": 10,
+        "Access to cellphone": 10,
+        "Education completed": 5.737704918,
+        "Wealth Index Factor Score": -1.1879,
+        "Latitude": 25.00332,
+        "Longitude": 90.044329,
+        "Location Name": "Bhatsala, Sherpur Sadar Upazila, Bangladesh"
+    },
+    "219": {
+        "Access to water (in Hrs)": 1.75,
+        "Access to electricity": 8,
+        "Access to cellphone": 7,
+        "Education completed": 17.2131147541,
+        "Wealth Index Factor Score": -1.07974,
+        "Latitude": 24.514808,
+        "Longitude": 89.821686,
+        "Location Name": "Bhuapur, Bhuapur Upazila, Bangladesh"
+    },
+    "220": {
+        "Access to water (in Hrs)": 5.25,
+        "Access to electricity": 19,
+        "Access to cellphone": 18,
+        "Education completed": 47.5409836066,
+        "Wealth Index Factor Score": -1.10829,
+        "Latitude": 24.411616,
+        "Longitude": 90.056668,
+        "Location Name": "Tangail District, -, Bangladesh"
+    },
+    "221": {
+        "Access to water (in Hrs)": 5.25,
+        "Access to electricity": 16,
+        "Access to cellphone": 16,
+        "Education completed": 32.7868852459,
+        "Wealth Index Factor Score": -0.5341,
+        "Latitude": 24.5242,
+        "Longitude": 89.900947,
+        "Location Name": "Tangail District, Alamnagar - 1990, Bangladesh"
+    },
+    "222": {
+        "Access to water (in Hrs)": 3.0,
+        "Access to electricity": 0,
+        "Access to cellphone": 14,
+        "Education completed": 37.7049180328,
+        "Wealth Index Factor Score": -1.1479,
+        "Latitude": 24.660061,
+        "Longitude": 90.016002,
+        "Location Name": "Tangail District, Madhupur - 1996, Bangladesh"
+    },
+    "223": {
+        "Access to water (in Hrs)": 5.15,
+        "Access to electricity": 21,
+        "Access to cellphone": 20,
+        "Education completed": 32.7868852459,
+        "Wealth Index Factor Score": -0.94046,
+        "Latitude": 24.064594,
+        "Longitude": 89.99445,
+        "Location Name": "Tangail District, Anaitara -, Bangladesh"
+    },
+    "225": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 6.5573770492,
+        "Wealth Index Factor Score": 1.172685,
+        "Latitude": 23.775411,
+        "Longitude": 90.420122,
+        "Location Name": "Gulshan, Dhaka - 1212, Bangladesh"
+    },
+    "227": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 2,
+        "Access to cellphone": 3,
+        "Education completed": 8.1967213115,
+        "Wealth Index Factor Score": 0.007,
+        "Latitude": 23.862663,
+        "Longitude": 90.406831,
+        "Location Name": "Azampur, - 1276, Bangladesh"
+    },
+    "230": {
+        "Access to water (in Hrs)": 0.83,
+        "Access to electricity": 4,
+        "Access to cellphone": 4,
+        "Education completed": 29.5081967213,
+        "Wealth Index Factor Score": 0.47859,
+        "Latitude": 23.752465,
+        "Longitude": 90.454828,
+        "Location Name": "Trimohani, Nasirabad - 1214, Bangladesh"
+    },
+    "231": {
+        "Access to water (in Hrs)": 0.42,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 1.6393442623,
+        "Wealth Index Factor Score": 0.378895,
+        "Latitude": 23.825673,
+        "Longitude": 90.246501,
+        "Location Name": "Manikganj District, - 1347, Bangladesh"
+    },
+    "232": {
+        "Access to water (in Hrs)": 0.42,
+        "Access to electricity": 0,
+        "Access to cellphone": 2,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.92319,
+        "Latitude": 23.876784,
+        "Longitude": 90.374347,
+        "Location Name": "Diabari, - 1231, Bangladesh"
+    },
+    "234": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 2.4590163934,
+        "Wealth Index Factor Score": 0.97429,
+        "Latitude": 23.992782,
+        "Longitude": 90.30636,
+        "Location Name": "Gazipur District, Kashimpur - 1751, Bangladesh"
+    },
+    "235": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 4.0983606557,
+        "Wealth Index Factor Score": -0.62608,
+        "Latitude": 23.9228,
+        "Longitude": 90.398158,
+        "Location Name": "Gazipura, Tongi - 1711, Bangladesh"
+    },
+    "236": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 7.3770491803,
+        "Wealth Index Factor Score": 0.68608,
+        "Latitude": 24.126122,
+        "Longitude": 90.567652,
+        "Location Name": "Gazipur District, Kapashia -, Bangladesh"
+    },
+    "237": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.222575,
+        "Latitude": 25.178624,
+        "Longitude": 89.759821,
+        "Location Name": "Z4614, Jamalpur District, Dewanganj -, Bangladesh"
+    },
+    "238": {
+        "Access to water (in Hrs)": 3.42,
+        "Access to electricity": 9,
+        "Access to cellphone": 9,
+        "Education completed": 19.6721311475,
+        "Wealth Index Factor Score": -0.48216,
+        "Latitude": 24.806842,
+        "Longitude": 89.859469,
+        "Location Name": "Jamalpur- Sharishabari Rd, Jamalpur District, Meshta -, Bangladesh"
+    },
+    "239": {
+        "Access to water (in Hrs)": 9.58,
+        "Access to electricity": 15,
+        "Access to cellphone": 17,
+        "Education completed": 30.3278688525,
+        "Wealth Index Factor Score": -1.12991,
+        "Latitude": 24.448373,
+        "Longitude": 90.792936,
+        "Location Name": "Kishoreganj District, Kishoreganj - 2300, Bangladesh"
+    },
+    "240": {
+        "Access to water (in Hrs)": 2.92,
+        "Access to electricity": 4,
+        "Access to cellphone": 8,
+        "Education completed": 13.9344262295,
+        "Wealth Index Factor Score": -0.652175,
+        "Latitude": 23.85803,
+        "Longitude": 90.004828,
+        "Location Name": "Girls' School Road, Manikganj District, Manikganj - 1800, Bangladesh"
+    },
+    "242": {
+        "Access to water (in Hrs)": 2.5,
+        "Access to electricity": 15,
+        "Access to cellphone": 15,
+        "Education completed": 46.7213114754,
+        "Wealth Index Factor Score": -0.55843,
+        "Latitude": 24.750614,
+        "Longitude": 90.417709,
+        "Location Name": "Mymensingh District, Mymensingh - 2200, Bangladesh"
+    },
+    "243": {
+        "Access to water (in Hrs)": 1.25,
+        "Access to electricity": 6,
+        "Access to cellphone": 5,
+        "Education completed": 6.5573770492,
+        "Wealth Index Factor Score": -0.75869,
+        "Latitude": 23.8356,
+        "Longitude": 90.61485,
+        "Location Name": "Dhaka-Sylhet Highway, Narayanganj District, - 1604, Bangladesh"
+    },
+    "244": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 7.3770491803,
+        "Wealth Index Factor Score": 0.86642,
+        "Latitude": 23.632245,
+        "Longitude": 90.479095,
+        "Location Name": "Narayanganj District, Narayanganj - 1401, Bangladesh"
+    },
+    "245": {
+        "Access to water (in Hrs)": 0.5,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 4.0983606557,
+        "Wealth Index Factor Score": -0.91853,
+        "Latitude": 23.687967,
+        "Longitude": 90.515427,
+        "Location Name": "Shiddhirganj, Narayanganj - 1431, Bangladesh"
+    },
+    "246": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 1.6393442623,
+        "Wealth Index Factor Score": -0.444255,
+        "Latitude": 23.795897,
+        "Longitude": 90.531262,
+        "Location Name": "Narayanganj District, Rupganj - 1460, Bangladesh"
+    },
+    "247": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 5.737704918,
+        "Wealth Index Factor Score": -0.56253,
+        "Latitude": 23.946827,
+        "Longitude": 90.633842,
+        "Location Name": "Palash - Ghorashal Road, Narsingdi District, Palash - 1610, Bangladesh"
+    },
+    "248": {
+        "Access to water (in Hrs)": 0.13,
+        "Access to electricity": 1,
+        "Access to cellphone": 2,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.65994,
+        "Latitude": 23.648867,
+        "Longitude": 89.539533,
+        "Location Name": "Nawabpur, Baliakandi Upazila, Bangladesh"
+    },
+    "249": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": -0.51639,
+        "Latitude": 25.030245,
+        "Longitude": 90.012601,
+        "Location Name": "Sherpur - Jhinaigati Road, Sherpur District, Sherpur - 2100, Bangladesh"
+    },
+    "250": {
+        "Access to water (in Hrs)": 7.58,
+        "Access to electricity": 22,
+        "Access to cellphone": 22,
+        "Education completed": 45.9016393443,
+        "Wealth Index Factor Score": -0.942545,
+        "Latitude": 24.647376,
+        "Longitude": 90.001991,
+        "Location Name": "Tangail District, - 1996, Bangladesh"
+    },
+    "251": {
+        "Access to water (in Hrs)": 6.5,
+        "Access to electricity": 20,
+        "Access to cellphone": 20,
+        "Education completed": 87.7049180328,
+        "Wealth Index Factor Score": -0.71993,
+        "Latitude": 23.81812,
+        "Longitude": 90.426784,
+        "Location Name": "Road # 9, Kuril, Dhaka - 1229, Bangladesh"
+    },
+    "252": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 0,
+        "Access to cellphone": 1,
+        "Education completed": 3.2786885246,
+        "Wealth Index Factor Score": -1.23218,
+        "Latitude": 23.714054,
+        "Longitude": 90.412552,
+        "Location Name": "M/S Bismillah Motors, Auto parts store, Nawabpur Road, Dholaikhal, Dhaka, Dholaikhal Road, Dayaganj, Dhaka - 1100, Bangladesh"
+    },
+    "254": {
+        "Access to water (in Hrs)": 17.3,
+        "Access to electricity": 29,
+        "Access to cellphone": 27,
+        "Education completed": 74.5901639344,
+        "Wealth Index Factor Score": -0.73918,
+        "Latitude": 23.6951,
+        "Longitude": 90.436078,
+        "Location Name": "Faruq Hotel and Restaurant, Dhaka - Mawa Hwy, Dhaka, N8, Dholairpar, Dhaka - 1232, Bangladesh"
+    },
+    "255": {
+        "Access to water (in Hrs)": 1.83,
+        "Access to electricity": 12,
+        "Access to cellphone": 11,
+        "Education completed": 17.2131147541,
+        "Wealth Index Factor Score": -0.513745,
+        "Latitude": 23.762841,
+        "Longitude": 90.421687,
+        "Location Name": "Rampura, Dhaka - 1219, Bangladesh"
+    },
+    "256": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.06507,
+        "Latitude": 23.713687,
+        "Longitude": 90.419794,
+        "Location Name": "Koarti Tola Road, Narinda, Dhaka - 1203, Bangladesh"
+    },
+    "258": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 1,
+        "Access to cellphone": 2,
+        "Education completed": 6.5573770492,
+        "Wealth Index Factor Score": -0.20306,
+        "Latitude": 23.692752,
+        "Longitude": 90.436891,
+        "Location Name": "Jurain, Dhaka - 1236, Bangladesh"
+    },
+    "259": {
+        "Access to water (in Hrs)": 0.75,
+        "Access to electricity": 5,
+        "Access to cellphone": 6,
+        "Education completed": 17.2131147541,
+        "Wealth Index Factor Score": 0.09896,
+        "Latitude": 23.75523,
+        "Longitude": 90.447078,
+        "Location Name": "Nandipara, Dhaka - 1214, Bangladesh"
+    },
+    "261": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 2,
+        "Access to cellphone": 3,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": 0.36715,
+        "Latitude": 23.716604,
+        "Longitude": 90.391039,
+        "Location Name": "Water Works Road, Chawkbazar, Dhaka - 1211, Bangladesh"
+    },
+    "262": {
+        "Access to water (in Hrs)": 1.25,
+        "Access to electricity": 6,
+        "Access to cellphone": 7,
+        "Education completed": 31.9672131148,
+        "Wealth Index Factor Score": -0.26464,
+        "Latitude": 23.788071,
+        "Longitude": 90.351773,
+        "Location Name": "Tolarbag, Dhaka - 1916, Bangladesh"
+    },
+    "264": {
+        "Access to water (in Hrs)": 0.92,
+        "Access to electricity": 5,
+        "Access to cellphone": 8,
+        "Education completed": 27.868852459,
+        "Wealth Index Factor Score": -0.43953,
+        "Latitude": 23.764587,
+        "Longitude": 90.37948,
+        "Location Name": "Lalmatia, Dhaka - 1207, Bangladesh"
+    },
+    "265": {
+        "Access to water (in Hrs)": 1.67,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 4.0983606557,
+        "Wealth Index Factor Score": -1.05282,
+        "Latitude": 23.836814,
+        "Longitude": 90.352385,
+        "Location Name": "Mirpur Cantonment, Dhaka - 1216, Bangladesh"
+    },
+    "266": {
+        "Access to water (in Hrs)": 2.33,
+        "Access to electricity": 6,
+        "Access to cellphone": 9,
+        "Education completed": 11.4754098361,
+        "Wealth Index Factor Score": -1.174965,
+        "Latitude": 23.823018,
+        "Longitude": 90.377734,
+        "Location Name": "Bhashantek, Dhaka - 1206, Bangladesh"
+    },
+    "267": {
+        "Access to water (in Hrs)": 5.37,
+        "Access to electricity": 17,
+        "Access to cellphone": 17,
+        "Education completed": 28.6885245902,
+        "Wealth Index Factor Score": -0.55332,
+        "Latitude": 23.745948,
+        "Longitude": 90.406365,
+        "Location Name": "Eastern Ramna View, 98/1 Old Elephant Road, Mogbazar, Dhaka - 1217, Bangladesh"
+    },
+    "268": {
+        "Access to water (in Hrs)": 4.0,
+        "Access to electricity": 11,
+        "Access to cellphone": 10,
+        "Education completed": 19.6721311475,
+        "Wealth Index Factor Score": -1.0686,
+        "Latitude": 23.759999,
+        "Longitude": 90.431347,
+        "Location Name": "Banasree, Dhaka - 1219, Bangladesh"
+    },
+    "269": {
+        "Access to water (in Hrs)": 4.08,
+        "Access to electricity": 0,
+        "Access to cellphone": 10,
+        "Education completed": 26.2295081967,
+        "Wealth Index Factor Score": -1.179035,
+        "Latitude": 23.730205,
+        "Longitude": 90.428459,
+        "Location Name": "Atish Dipankar Road, Golapbag, Dhaka - 1203, Bangladesh"
+    },
+    "270": {
+        "Access to water (in Hrs)": 5.42,
+        "Access to electricity": 12,
+        "Access to cellphone": 7,
+        "Education completed": 14.7540983607,
+        "Wealth Index Factor Score": -1.120075,
+        "Latitude": 23.687254,
+        "Longitude": 90.407643,
+        "Location Name": "Khejurbag, Char Mirerbag - 1310, Bangladesh"
+    },
+    "271": {
+        "Access to water (in Hrs)": 11.17,
+        "Access to electricity": 0,
+        "Access to cellphone": 19,
+        "Education completed": 20.4918032787,
+        "Wealth Index Factor Score": -1.208265,
+        "Latitude": 23.719009,
+        "Longitude": 90.420307,
+        "Location Name": "Hakthola Road, Tikatuli, Dhaka - 1203, Bangladesh"
+    },
+    "272": {
+        "Access to water (in Hrs)": 1.0,
+        "Access to electricity": 3,
+        "Access to cellphone": 4,
+        "Education completed": 12.2950819672,
+        "Wealth Index Factor Score": -0.67585,
+        "Latitude": 23.759203,
+        "Longitude": 90.398242,
+        "Location Name": "Tejgaon, Dhaka - 2015, Bangladesh"
+    },
+    "273": {
+        "Access to water (in Hrs)": 3.48,
+        "Access to electricity": 16,
+        "Access to cellphone": 19,
+        "Education completed": 51.6393442623,
+        "Wealth Index Factor Score": -0.10362,
+        "Latitude": 23.86779,
+        "Longitude": 90.392102,
+        "Location Name": "Road 2, Uttara, - 1231, Bangladesh"
+    },
+    "274": {
+        "Access to water (in Hrs)": 6.58,
+        "Access to electricity": 20,
+        "Access to cellphone": 22,
+        "Education completed": 69.6721311475,
+        "Wealth Index Factor Score": -0.40946,
+        "Latitude": 22.748157,
+        "Longitude": 89.797835,
+        "Location Name": "Bagerhat District, Bagerhat -, Bangladesh"
+    },
+    "275": {
+        "Access to water (in Hrs)": 1.0,
+        "Access to electricity": 6,
+        "Access to cellphone": 5,
+        "Education completed": 24.5901639344,
+        "Wealth Index Factor Score": -0.16889,
+        "Latitude": 22.812549,
+        "Longitude": 89.879051,
+        "Location Name": "Bagerhat District, Hizla - 9360, Bangladesh"
+    },
+    "276": {
+        "Access to water (in Hrs)": 0.42,
+        "Access to electricity": 3,
+        "Access to cellphone": 4,
+        "Education completed": 7.3770491803,
+        "Wealth Index Factor Score": -0.50917,
+        "Latitude": 22.652121,
+        "Longitude": 89.87773,
+        "Location Name": "Bagerhat District, Kachua -, Bangladesh"
+    },
+    "277": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 0.8196721311,
+        "Wealth Index Factor Score": 0.284915,
+        "Latitude": 22.429435,
+        "Longitude": 89.674948,
+        "Location Name": "Bagerhat District, -, Bangladesh"
+    },
+    "278": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 6.5573770492,
+        "Wealth Index Factor Score": -0.81965,
+        "Latitude": 22.396543,
+        "Longitude": 89.780002,
+        "Location Name": "Road from Gulishakhali Bazar to Sundarban Bazar, Bagerhat District, -, Bangladesh"
+    },
+    "280": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 13.1147540984,
+        "Wealth Index Factor Score": 0.31347,
+        "Latitude": 23.760537,
+        "Longitude": 88.950014,
+        "Location Name": "Chuadanga District, Alamdanga - 7210, Bangladesh"
+    },
+    "281": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.81517,
+        "Latitude": 23.57531,
+        "Longitude": 88.908219,
+        "Location Name": "Chuadanga District, Chuadanga -, Bangladesh"
+    },
+    "282": {
+        "Access to water (in Hrs)": 3.83,
+        "Access to electricity": 15,
+        "Access to cellphone": 16,
+        "Education completed": 43.4426229508,
+        "Wealth Index Factor Score": -0.82622,
+        "Latitude": 23.617535,
+        "Longitude": 88.691764,
+        "Location Name": "Chuadanga District, -, Bangladesh"
+    },
+    "283": {
+        "Access to water (in Hrs)": 2.58,
+        "Access to electricity": 14,
+        "Access to cellphone": 14,
+        "Education completed": 66.393442623,
+        "Wealth Index Factor Score": -0.06117,
+        "Latitude": 23.457902,
+        "Longitude": 88.804411,
+        "Location Name": "Chuadanga District, -, Bangladesh"
+    },
+    "284": {
+        "Access to water (in Hrs)": 8.75,
+        "Access to electricity": 27,
+        "Access to cellphone": 25,
+        "Education completed": 61.4754098361,
+        "Wealth Index Factor Score": -0.986175,
+        "Latitude": 23.275387,
+        "Longitude": 89.297009,
+        "Location Name": "Jashore District, -, Bangladesh"
+    },
+    "285": {
+        "Access to water (in Hrs)": 3.5,
+        "Access to electricity": 0,
+        "Access to cellphone": 11,
+        "Education completed": 34.4262295082,
+        "Wealth Index Factor Score": -1.10076,
+        "Latitude": 23.228426,
+        "Longitude": 88.966059,
+        "Location Name": "Jashore District, -, Bangladesh"
+    },
+    "286": {
+        "Access to water (in Hrs)": 0.83,
+        "Access to electricity": 0,
+        "Access to cellphone": 4,
+        "Education completed": 1.6393442623,
+        "Wealth Index Factor Score": -1.077525,
+        "Latitude": 22.996982,
+        "Longitude": 89.049392,
+        "Location Name": "Jashore District, Hajirbagh -, Bangladesh"
+    },
+    "287": {
+        "Access to water (in Hrs)": 0.92,
+        "Access to electricity": 6,
+        "Access to cellphone": 6,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": 0.277305,
+        "Latitude": 22.844137,
+        "Longitude": 89.300574,
+        "Location Name": "Jashore District, Gaurighana -, Bangladesh"
+    },
+    "288": {
+        "Access to water (in Hrs)": 2.3,
+        "Access to electricity": 18,
+        "Access to cellphone": 15,
+        "Education completed": -76.2295081967,
+        "Wealth Index Factor Score": -0.18027,
+        "Latitude": 23.155714,
+        "Longitude": 89.330526,
+        "Location Name": "Jashore District, -, Bangladesh"
+    },
+    "289": {
+        "Access to water (in Hrs)": 0.78,
+        "Access to electricity": 6,
+        "Access to cellphone": 6,
+        "Education completed": 22.131147541,
+        "Wealth Index Factor Score": 0.20021,
+        "Latitude": 23.22622,
+        "Longitude": 89.237433,
+        "Location Name": "Jashore District, Jashore -, Bangladesh"
+    },
+    "290": {
+        "Access to water (in Hrs)": 0.75,
+        "Access to electricity": 4,
+        "Access to cellphone": 4,
+        "Education completed": 5.737704918,
+        "Wealth Index Factor Score": 0.360305,
+        "Latitude": 23.053658,
+        "Longitude": 89.283319,
+        "Location Name": "Jashore District, Dhakuria -, Bangladesh"
+    },
+    "291": {
+        "Access to water (in Hrs)": 2.33,
+        "Access to electricity": 12,
+        "Access to cellphone": 11,
+        "Education completed": 47.5409836066,
+        "Wealth Index Factor Score": -0.27919,
+        "Latitude": 22.943835,
+        "Longitude": 89.3465,
+        "Location Name": "Jashore District, Nehalpur -, Bangladesh"
+    },
+    "292": {
+        "Access to water (in Hrs)": 0.42,
+        "Access to electricity": 4,
+        "Access to cellphone": 4,
+        "Education completed": 26.2295081967,
+        "Wealth Index Factor Score": 0.823925,
+        "Latitude": 22.952726,
+        "Longitude": 88.876655,
+        "Location Name": "Jashore District, -, Bangladesh"
+    },
+    "293": {
+        "Access to water (in Hrs)": 1.75,
+        "Access to electricity": 7,
+        "Access to cellphone": 9,
+        "Education completed": 9.8360655738,
+        "Wealth Index Factor Score": -0.88219,
+        "Latitude": 23.619259,
+        "Longitude": 89.151306,
+        "Location Name": "Horinakundu Upazila, Bangladesh"
+    },
+    "294": {
+        "Access to water (in Hrs)": 13.08,
+        "Access to electricity": 19,
+        "Access to cellphone": 23,
+        "Education completed": 82.7868852459,
+        "Wealth Index Factor Score": -0.43357,
+        "Latitude": 23.541812,
+        "Longitude": 89.090397,
+        "Location Name": "Jhenaidah District, Jhenaidah -, Bangladesh"
+    },
+    "295": {
+        "Access to water (in Hrs)": 8.33,
+        "Access to electricity": 13,
+        "Access to cellphone": 15,
+        "Education completed": 53.2786885246,
+        "Wealth Index Factor Score": -0.51137,
+        "Latitude": 23.561336,
+        "Longitude": 89.004774,
+        "Location Name": "Jhenaidah-Chuadanga Road, Jhenaidah District, Jhenaidah -, Bangladesh"
+    },
+    "296": {
+        "Access to water (in Hrs)": 1.33,
+        "Access to electricity": 5,
+        "Access to cellphone": 6,
+        "Education completed": 18.0327868852,
+        "Wealth Index Factor Score": -0.422145,
+        "Latitude": 23.400442,
+        "Longitude": 89.127638,
+        "Location Name": "Jhenaidah District, Kaliganj -, Bangladesh"
+    },
+    "298": {
+        "Access to water (in Hrs)": 13.08,
+        "Access to electricity": 4,
+        "Access to cellphone": 29,
+        "Education completed": -103.2786885246,
+        "Wealth Index Factor Score": -0.89805,
+        "Latitude": 23.600281,
+        "Longitude": 89.317743,
+        "Location Name": "Jhenaidah District, -, Bangladesh"
+    },
+    "299": {
+        "Access to water (in Hrs)": 3.33,
+        "Access to electricity": 8,
+        "Access to cellphone": 8,
+        "Education completed": 27.868852459,
+        "Wealth Index Factor Score": 0.00371,
+        "Latitude": 23.592941,
+        "Longitude": 89.253063,
+        "Location Name": "Shailkupa Upazila, Bangladesh"
+    },
+    "300": {
+        "Access to water (in Hrs)": 2.58,
+        "Access to electricity": 10,
+        "Access to cellphone": 12,
+        "Education completed": 26.2295081967,
+        "Wealth Index Factor Score": -1.25378,
+        "Latitude": 22.646255,
+        "Longitude": 89.397426,
+        "Location Name": "Khulna District, Paikgachha Upazila - 9285, Bangladesh"
+    },
+    "301": {
+        "Access to water (in Hrs)": 14.83,
+        "Access to electricity": 27,
+        "Access to cellphone": 25,
+        "Education completed": -86.0655737705,
+        "Wealth Index Factor Score": -1.00374,
+        "Latitude": 22.81185,
+        "Longitude": 89.401853,
+        "Location Name": "\u09a5\u09c1\u09b2\u09a8\u09be \u09b8\u09be\u09a4\u0995\u09cd\u09b7\u09c0\u09b0\u09be \u09ae\u09b9\u09be\u09b8\u09a1\u09bc\u0995, Khulna District, \u0996\u09b0\u09cd\u09a8\u09bf\u09df\u09be -, Bangladesh"
+    },
+    "302": {
+        "Access to water (in Hrs)": 0.58,
+        "Access to electricity": 1,
+        "Access to cellphone": 2,
+        "Education completed": 15.5737704918,
+        "Wealth Index Factor Score": -0.483445,
+        "Latitude": 22.939755,
+        "Longitude": 89.574589,
+        "Location Name": "Khulna District, \u0986\u09dc\u09c1\u09df\u09be -, Bangladesh"
+    },
+    "303": {
+        "Access to water (in Hrs)": 7.67,
+        "Access to electricity": 0,
+        "Access to cellphone": 19,
+        "Education completed": 25.4098360656,
+        "Wealth Index Factor Score": -1.28247,
+        "Latitude": 22.445247,
+        "Longitude": 89.283592,
+        "Location Name": "Khulna District, Koyra -, Bangladesh"
+    },
+    "304": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 2,
+        "Access to cellphone": 1,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": -0.2443,
+        "Latitude": 22.674333,
+        "Longitude": 89.352841,
+        "Location Name": "Khulna District, Paikgachha Upazila -, Bangladesh"
+    },
+    "305": {
+        "Access to water (in Hrs)": 5.33,
+        "Access to electricity": 3,
+        "Access to cellphone": 4,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": -1.1474,
+        "Latitude": 22.819203,
+        "Longitude": 89.613873,
+        "Location Name": "Alaipur to Palerhat Road, Khulna District, \u0986\u09b2\u09be\u0987\u09aa\u09c1\u09b0 -, Bangladesh"
+    },
+    "306": {
+        "Access to water (in Hrs)": 1.83,
+        "Access to electricity": 6,
+        "Access to cellphone": 7,
+        "Education completed": 27.868852459,
+        "Wealth Index Factor Score": -0.94866,
+        "Latitude": 24.093133,
+        "Longitude": 88.961191,
+        "Location Name": "Kushtia District, -, Bangladesh"
+    },
+    "307": {
+        "Access to water (in Hrs)": 7.67,
+        "Access to electricity": 14,
+        "Access to cellphone": 16,
+        "Education completed": 54.0983606557,
+        "Wealth Index Factor Score": -1.04443,
+        "Latitude": 23.973008,
+        "Longitude": 88.78158,
+        "Location Name": "Kushtia District, - 7052, Bangladesh"
+    },
+    "308": {
+        "Access to water (in Hrs)": 5.5,
+        "Access to electricity": 0,
+        "Access to cellphone": 10,
+        "Education completed": 27.868852459,
+        "Wealth Index Factor Score": -1.25752,
+        "Latitude": 24.047659,
+        "Longitude": 88.938525,
+        "Location Name": "Kushtia District, -, Bangladesh"
+    },
+    "309": {
+        "Access to water (in Hrs)": 4.33,
+        "Access to electricity": 12,
+        "Access to cellphone": 14,
+        "Education completed": 90.1639344262,
+        "Wealth Index Factor Score": -0.29227,
+        "Latitude": 23.787974,
+        "Longitude": 89.288457,
+        "Location Name": "Kushtia District, Khoksha - 7020, Bangladesh"
+    },
+    "310": {
+        "Access to water (in Hrs)": 3.33,
+        "Access to electricity": 6,
+        "Access to cellphone": 11,
+        "Education completed": 39.3442622951,
+        "Wealth Index Factor Score": -0.89063,
+        "Latitude": 23.857855,
+        "Longitude": 89.196714,
+        "Location Name": "Kushtia District, - 7010, Bangladesh"
+    },
+    "311": {
+        "Access to water (in Hrs)": 7.83,
+        "Access to electricity": 0,
+        "Access to cellphone": 15,
+        "Education completed": 41.8032786885,
+        "Wealth Index Factor Score": -1.20317,
+        "Latitude": 23.913275,
+        "Longitude": 89.061614,
+        "Location Name": "Kushtia District, Kushtia -, Bangladesh"
+    },
+    "312": {
+        "Access to water (in Hrs)": 9.5,
+        "Access to electricity": 23,
+        "Access to cellphone": 22,
+        "Education completed": 54.9180327869,
+        "Wealth Index Factor Score": -1.04867,
+        "Latitude": 23.70952,
+        "Longitude": 89.032229,
+        "Location Name": "Jhaudia, Kushtia District, Bangladesh"
+    },
+    "313": {
+        "Access to water (in Hrs)": 14.08,
+        "Access to electricity": 20,
+        "Access to cellphone": 22,
+        "Education completed": 32.7868852459,
+        "Wealth Index Factor Score": -1.041615,
+        "Latitude": 23.832202,
+        "Longitude": 88.99669,
+        "Location Name": "Kushtia District, -, Bangladesh"
+    },
+    "314": {
+        "Access to water (in Hrs)": 0.92,
+        "Access to electricity": 3,
+        "Access to cellphone": 4,
+        "Education completed": 16.393442623,
+        "Wealth Index Factor Score": -0.952835,
+        "Latitude": 23.381338,
+        "Longitude": 89.469072,
+        "Location Name": "Magura District, Gopalgram -, Bangladesh"
+    },
+    "315": {
+        "Access to water (in Hrs)": 7.0,
+        "Access to electricity": 0,
+        "Access to cellphone": 14,
+        "Education completed": 35.2459016393,
+        "Wealth Index Factor Score": -1.30136,
+        "Latitude": 23.397015,
+        "Longitude": 89.539748,
+        "Location Name": "Balidia, Mohammadpur Upazila, Bangladesh"
+    },
+    "316": {
+        "Access to water (in Hrs)": 6.83,
+        "Access to electricity": 17,
+        "Access to cellphone": 17,
+        "Education completed": 36.0655737705,
+        "Wealth Index Factor Score": -1.03726,
+        "Latitude": 23.301834,
+        "Longitude": 89.39681,
+        "Location Name": "Magura District, Shalikha -, Bangladesh"
+    },
+    "317": {
+        "Access to water (in Hrs)": 4.5,
+        "Access to electricity": 13,
+        "Access to cellphone": 16,
+        "Education completed": 69.6721311475,
+        "Wealth Index Factor Score": -1.08477,
+        "Latitude": 23.885178,
+        "Longitude": 88.787131,
+        "Location Name": "Meherpur District, Bamundi - 7110, Bangladesh"
+    },
+    "318": {
+        "Access to water (in Hrs)": 4.33,
+        "Access to electricity": 13,
+        "Access to cellphone": 12,
+        "Education completed": 33.606557377,
+        "Wealth Index Factor Score": -1.25704,
+        "Latitude": 23.858676,
+        "Longitude": 88.800235,
+        "Location Name": "Meherpur District, - 7110, Bangladesh"
+    },
+    "319": {
+        "Access to water (in Hrs)": 12.08,
+        "Access to electricity": 17,
+        "Access to cellphone": 21,
+        "Education completed": 59.0163934426,
+        "Wealth Index Factor Score": -1.19926,
+        "Latitude": 23.768451,
+        "Longitude": 88.588151,
+        "Location Name": "Meherpur District, Meherpur -, Bangladesh"
+    },
+    "320": {
+        "Access to water (in Hrs)": 3.33,
+        "Access to electricity": 13,
+        "Access to cellphone": 13,
+        "Education completed": 46.7213114754,
+        "Wealth Index Factor Score": -1.02725,
+        "Latitude": 23.081662,
+        "Longitude": 89.640943,
+        "Location Name": "Narail District, Mauli - 7520, Bangladesh"
+    },
+    "321": {
+        "Access to water (in Hrs)": 5.83,
+        "Access to electricity": 5,
+        "Access to cellphone": 13,
+        "Education completed": 48.3606557377,
+        "Wealth Index Factor Score": -1.20946,
+        "Latitude": 23.245589,
+        "Longitude": 89.594832,
+        "Location Name": "Narail District, -, Bangladesh"
+    },
+    "322": {
+        "Access to water (in Hrs)": 1.25,
+        "Access to electricity": 0,
+        "Access to cellphone": 8,
+        "Education completed": 32.7868852459,
+        "Wealth Index Factor Score": -1.246705,
+        "Latitude": 23.182744,
+        "Longitude": 89.435044,
+        "Location Name": "Narail District, Tularampur - 7000, Bangladesh"
+    },
+    "323": {
+        "Access to water (in Hrs)": 13.83,
+        "Access to electricity": 0,
+        "Access to cellphone": 19,
+        "Education completed": 32.7868852459,
+        "Wealth Index Factor Score": -1.3436,
+        "Latitude": 22.581227,
+        "Longitude": 89.071079,
+        "Location Name": "Satkhira District, -, Bangladesh"
+    },
+    "324": {
+        "Access to water (in Hrs)": 3.67,
+        "Access to electricity": 24,
+        "Access to cellphone": 20,
+        "Education completed": 83.606557377,
+        "Wealth Index Factor Score": -0.89082,
+        "Latitude": 22.87511,
+        "Longitude": 89.003317,
+        "Location Name": "Satkhira District, Kolaroa -, Bangladesh"
+    },
+    "325": {
+        "Access to water (in Hrs)": 8.58,
+        "Access to electricity": 29,
+        "Access to cellphone": 28,
+        "Education completed": 82.7868852459,
+        "Wealth Index Factor Score": -1.15621,
+        "Latitude": 22.396932,
+        "Longitude": 89.071171,
+        "Location Name": "Shyamnagar-Munshiganj Road, Satkhira District, Kaliganj -, Bangladesh"
+    },
+    "326": {
+        "Access to water (in Hrs)": 4.72,
+        "Access to electricity": 19,
+        "Access to cellphone": 23,
+        "Education completed": 63.1147540984,
+        "Wealth Index Factor Score": -1.31731,
+        "Latitude": 22.708012,
+        "Longitude": 89.083589,
+        "Location Name": "Fokir Moira Land Road, Satkhira District, Satkhira - 9400, Bangladesh"
+    },
+    "327": {
+        "Access to water (in Hrs)": 3.7,
+        "Access to electricity": 16,
+        "Access to cellphone": 17,
+        "Education completed": 50.0,
+        "Wealth Index Factor Score": -1.11222,
+        "Latitude": 22.743591,
+        "Longitude": 89.024793,
+        "Location Name": "Satkhira District, Satkhira -, Bangladesh"
+    },
+    "328": {
+        "Access to water (in Hrs)": 6.42,
+        "Access to electricity": 19,
+        "Access to cellphone": 21,
+        "Education completed": 81.9672131148,
+        "Wealth Index Factor Score": -1.134795,
+        "Latitude": 22.397019,
+        "Longitude": 89.183668,
+        "Location Name": "Satkhira District, -, Bangladesh"
+    },
+    "329": {
+        "Access to water (in Hrs)": 12.67,
+        "Access to electricity": 24,
+        "Access to cellphone": 28,
+        "Education completed": 94.262295082,
+        "Wealth Index Factor Score": -1.27811,
+        "Latitude": 22.693874,
+        "Longitude": 89.193734,
+        "Location Name": "Satkhira District, Khesra -, Bangladesh"
+    },
+    "330": {
+        "Access to water (in Hrs)": 7.08,
+        "Access to electricity": 24,
+        "Access to cellphone": 21,
+        "Education completed": -85.2459016393,
+        "Wealth Index Factor Score": -0.87069,
+        "Latitude": 22.654283,
+        "Longitude": 89.776146,
+        "Location Name": "An Nur Forkaniya Mosjid, Barisal-Khulna Highway, Bagerhat District, Bagerhat - 9300, Bangladesh"
+    },
+    "331": {
+        "Access to water (in Hrs)": 2.0,
+        "Access to electricity": 0,
+        "Access to cellphone": 15,
+        "Education completed": 42.6229508197,
+        "Wealth Index Factor Score": -1.31819,
+        "Latitude": 22.492279,
+        "Longitude": 89.601967,
+        "Location Name": "Bagerhat District, Mongla - 9350, Bangladesh"
+    },
+    "332": {
+        "Access to water (in Hrs)": 7.42,
+        "Access to electricity": 14,
+        "Access to cellphone": 15,
+        "Education completed": 61.4754098361,
+        "Wealth Index Factor Score": -1.04865,
+        "Latitude": 23.760284,
+        "Longitude": 88.940571,
+        "Location Name": "Alamdanga Upozila Swimming Pool, Station Road Alamdanga, Chuadanga District, Alamdanga - 7210, Bangladesh"
+    },
+    "333": {
+        "Access to water (in Hrs)": 2.92,
+        "Access to electricity": 15,
+        "Access to cellphone": 16,
+        "Education completed": 15.5737704918,
+        "Wealth Index Factor Score": -0.885035,
+        "Latitude": 23.65424,
+        "Longitude": 88.867971,
+        "Location Name": "Chuadanga District, Chuadanga - 7200, Bangladesh"
+    },
+    "334": {
+        "Access to water (in Hrs)": 4.5,
+        "Access to electricity": 18,
+        "Access to cellphone": 17,
+        "Education completed": 55.737704918,
+        "Wealth Index Factor Score": 0.05782,
+        "Latitude": 23.50348,
+        "Longitude": 88.806034,
+        "Location Name": "Chuadanga District, -, Bangladesh"
+    },
+    "335": {
+        "Access to water (in Hrs)": 2.25,
+        "Access to electricity": 10,
+        "Access to cellphone": 9,
+        "Education completed": 25.4098360656,
+        "Wealth Index Factor Score": 0.34836,
+        "Latitude": 23.028249,
+        "Longitude": 89.402248,
+        "Location Name": "Barnali Cinema Hall, Jessoe-Khulna Hwy, Mohakal, Noapara -, Bangladesh"
+    },
+    "339": {
+        "Access to water (in Hrs)": 1.17,
+        "Access to electricity": 3,
+        "Access to cellphone": 6,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": -0.91128,
+        "Latitude": 23.037493,
+        "Longitude": 88.88842,
+        "Location Name": "Jashore District, Benapole - 7431, Bangladesh"
+    },
+    "340": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 8.1967213115,
+        "Wealth Index Factor Score": -0.102115,
+        "Latitude": 23.531075,
+        "Longitude": 89.183954,
+        "Location Name": "Hamdah Bypass, Jhenaidah District, Jhenaidah - 7300, Bangladesh"
+    },
+    "341": {
+        "Access to water (in Hrs)": 0.15,
+        "Access to electricity": 0,
+        "Access to cellphone": 1,
+        "Education completed": 5.737704918,
+        "Wealth Index Factor Score": -0.714205,
+        "Latitude": 23.396183,
+        "Longitude": 89.119442,
+        "Location Name": "Jhenaidah District, Kaliganj -, Bangladesh"
+    },
+    "342": {
+        "Access to water (in Hrs)": 0.12,
+        "Access to electricity": 2,
+        "Access to cellphone": 1,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.624435,
+        "Latitude": 22.736725,
+        "Longitude": 89.522263,
+        "Location Name": "\u099c\u09b2\u09ae\u09be, Batiaghata -, Bangladesh"
+    },
+    "343": {
+        "Access to water (in Hrs)": 0.42,
+        "Access to electricity": 5,
+        "Access to cellphone": 4,
+        "Education completed": 9.8360655738,
+        "Wealth Index Factor Score": -0.57576,
+        "Latitude": 22.948192,
+        "Longitude": 89.678375,
+        "Location Name": "Terokhada to \u200dSachiadah to Mollahat Rd, Atlia, Terokhada - 9230, Bangladesh"
+    },
+    "344": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 1,
+        "Access to cellphone": 2,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.614105,
+        "Latitude": 23.89869,
+        "Longitude": 89.139493,
+        "Location Name": "Kushtia District, Kushtia - 7001, Bangladesh"
+    },
+    "345": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": 0.98606,
+        "Latitude": 23.936548,
+        "Longitude": 88.989369,
+        "Location Name": "Kushtia District, Mirpur -, Bangladesh"
+    },
+    "347": {
+        "Access to water (in Hrs)": 0.08,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 5.737704918,
+        "Wealth Index Factor Score": 1.46143,
+        "Latitude": 23.780111,
+        "Longitude": 88.633409,
+        "Location Name": "Meherpur District, Meherpur - 7100, Bangladesh"
+    },
+    "348": {
+        "Access to water (in Hrs)": 0.12,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 6.5573770492,
+        "Wealth Index Factor Score": -0.927,
+        "Latitude": 23.14157,
+        "Longitude": 89.453645,
+        "Location Name": "Mulia, Narail Sadar Upazila, Bangladesh"
+    },
+    "349": {
+        "Access to water (in Hrs)": 0.33,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 5.737704918,
+        "Wealth Index Factor Score": -0.38826,
+        "Latitude": 22.794092,
+        "Longitude": 88.961172,
+        "Location Name": "Satkhira District, -, Bangladesh"
+    },
+    "350": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 0,
+        "Access to cellphone": 2,
+        "Education completed": 10.6557377049,
+        "Wealth Index Factor Score": -0.63306,
+        "Latitude": 22.854036,
+        "Longitude": 89.522361,
+        "Location Name": "Karigar Para Rd, Pabla, - 9202, Bangladesh"
+    },
+    "353": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 0.0,
+        "Wealth Index Factor Score": -0.86885,
+        "Latitude": 22.827278,
+        "Longitude": 89.553754,
+        "Location Name": "Jora Gate, Khulna - 9000, Bangladesh"
+    },
+    "354": {
+        "Access to water (in Hrs)": 0.83,
+        "Access to electricity": 9,
+        "Access to cellphone": 8,
+        "Education completed": 28.6885245902,
+        "Wealth Index Factor Score": -0.986685,
+        "Latitude": 22.800432,
+        "Longitude": 89.558253,
+        "Location Name": "Bagmara, Khulna - 9100, Bangladesh"
+    },
+    "355": {
+        "Access to water (in Hrs)": 6.25,
+        "Access to electricity": 16,
+        "Access to cellphone": 18,
+        "Education completed": 67.2131147541,
+        "Wealth Index Factor Score": -0.277095,
+        "Latitude": 22.812792,
+        "Longitude": 89.568465,
+        "Location Name": "Khulna Model School, \u09b2\u09cb\u09df\u09be\u09b0 \u09af\u09b6\u09cb\u09b0 \u09b0\u09cb\u09a1, Sener Bazar, Khulna - 9100, Bangladesh"
+    },
+    "356": {
+        "Access to water (in Hrs)": 0.17,
+        "Access to electricity": 1,
+        "Access to cellphone": 1,
+        "Education completed": 6.5573770492,
+        "Wealth Index Factor Score": -0.05225,
+        "Latitude": 22.822982,
+        "Longitude": 89.536276,
+        "Location Name": "Chak Mathurabad, Khulna - 9000, Bangladesh"
+    },
+    "357": {
+        "Access to water (in Hrs)": 4.42,
+        "Access to electricity": 20,
+        "Access to cellphone": 18,
+        "Education completed": 79.5081967213,
+        "Wealth Index Factor Score": -1.272855,
+        "Latitude": 22.817167,
+        "Longitude": 89.548391,
+        "Location Name": "PCC&MEC, 180 Road 12, Goborchaka, Khulna - 9100, Bangladesh"
+    },
+    "358": {
+        "Access to water (in Hrs)": 3.0,
+        "Access to electricity": 23,
+        "Access to cellphone": 18,
+        "Education completed": 68.0327868852,
+        "Wealth Index Factor Score": -0.98755,
+        "Latitude": 22.814665,
+        "Longitude": 89.541784,
+        "Location Name": "Sonadanga, Khulna - 9208, Bangladesh"
+    },
+    "359": {
+        "Access to water (in Hrs)": 3.5,
+        "Access to electricity": 16,
+        "Access to cellphone": 14,
+        "Education completed": 57.3770491803,
+        "Wealth Index Factor Score": -1.0603,
+        "Latitude": 24.960166,
+        "Longitude": 89.422679,
+        "Location Name": "Bogura District, Bangladesh"
+    },
+    "360": {
+        "Access to water (in Hrs)": 3.75,
+        "Access to electricity": 4,
+        "Access to cellphone": 17,
+        "Education completed": 36.0655737705,
+        "Wealth Index Factor Score": -1.16086,
+        "Latitude": 24.571896,
+        "Longitude": 89.601286,
+        "Location Name": "Bogura District, - 5850, Bangladesh"
+    },
+    "361": {
+        "Access to water (in Hrs)": 3.42,
+        "Access to electricity": 23,
+        "Access to cellphone": 21,
+        "Education completed": -104.0983606557,
+        "Wealth Index Factor Score": -0.75204,
+        "Latitude": 24.905653,
+        "Longitude": 89.112259,
+        "Location Name": "Pukur gachha govt primary school, Bogura District, - 5880, Bangladesh"
+    },
+    "362": {
+        "Access to water (in Hrs)": 3.17,
+        "Access to electricity": 8,
+        "Access to cellphone": 18,
+        "Education completed": 33.606557377,
+        "Wealth Index Factor Score": -1.20877,
+        "Latitude": 24.74952,
+        "Longitude": 89.481397,
+        "Location Name": "Bogura District, Bogura -, Bangladesh"
+    },
+    "363": {
+        "Access to water (in Hrs)": 5.38,
+        "Access to electricity": 23,
+        "Access to cellphone": 24,
+        "Education completed": 79.5081967213,
+        "Wealth Index Factor Score": -0.96935,
+        "Latitude": 24.757194,
+        "Longitude": 89.300808,
+        "Location Name": "Bogura, Bogura District, Bangladesh"
+    },
+    "364": {
+        "Access to water (in Hrs)": 6.75,
+        "Access to electricity": 26,
+        "Access to cellphone": 19,
+        "Education completed": 71.3114754098,
+        "Wealth Index Factor Score": -1.14423,
+        "Latitude": 24.812239,
+        "Longitude": 89.538712,
+        "Location Name": "Bogura District, -, Bangladesh"
+    },
+    "365": {
+        "Access to water (in Hrs)": 2.25,
+        "Access to electricity": 9,
+        "Access to cellphone": 9,
+        "Education completed": 27.868852459,
+        "Wealth Index Factor Score": -0.89446,
+        "Latitude": 24.916728,
+        "Longitude": 89.518729,
+        "Location Name": "Sariakandi, Bogura District, Bangladesh"
+    },
+    "366": {
+        "Access to water (in Hrs)": 1.58,
+        "Access to electricity": 0,
+        "Access to cellphone": 7,
+        "Education completed": 27.0491803279,
+        "Wealth Index Factor Score": -1.138655,
+        "Latitude": 24.822684,
+        "Longitude": 89.389252,
+        "Location Name": "Bogura District, Bogura - 5800, Bangladesh"
+    },
+    "367": {
+        "Access to water (in Hrs)": 4.17,
+        "Access to electricity": 13,
+        "Access to cellphone": 13,
+        "Education completed": 31.9672131148,
+        "Wealth Index Factor Score": -0.86128,
+        "Latitude": 24.573327,
+        "Longitude": 89.526615,
+        "Location Name": "Sherpur Upazila, Bangladesh"
+    },
+    "368": {
+        "Access to water (in Hrs)": 2.73,
+        "Access to electricity": 13,
+        "Access to cellphone": 16,
+        "Education completed": 30.3278688525,
+        "Wealth Index Factor Score": -1.11813,
+        "Latitude": 25.017115,
+        "Longitude": 89.368359,
+        "Location Name": "Akkelpur Bypass, Bogura District, Shibganj -, Bangladesh"
+    },
+    "369": {
+        "Access to water (in Hrs)": 0.25,
+        "Access to electricity": 2,
+        "Access to cellphone": 2,
+        "Education completed": 8.1967213115,
+        "Wealth Index Factor Score": -0.144035,
+        "Latitude": 24.976099,
+        "Longitude": 89.493625,
+        "Location Name": "Bogura District, Sonatala - 5826, Bangladesh"
+    },
+    "370": {
+        "Access to water (in Hrs)": 0.42,
+        "Access to electricity": 3,
+        "Access to cellphone": 3,
+        "Education completed": 4.0983606557,
+        "Wealth Index Factor Score": -0.28407,
+        "Latitude": 25.048107,
+        "Longitude": 88.946701,
+        "Location Name": "Joypurhat District, Joypurhat -, Bangladesh"
+    },
+    "371": {
+        "Access to water (in Hrs)": 0.83,
+        "Access to electricity": 5,
+        "Access to cellphone": 5,
+        "Education completed": 3.2786885246,
+        "Wealth Index Factor Score": -0.44542,
+        "Latitude": 25.043026,
+        "Longitude": 89.219757,
+        "Location Name": "Joypurhat District, -, Bangladesh"
+    },
+    "372": {
+        "Access to water (in Hrs)": 1.05,
+        "Access to electricity": 8,
+        "Access to cellphone": 8,
+        "Education completed": 19.6721311475,
+        "Wealth Index Factor Score": -0.16164,
+        "Latitude": 25.190088,
+        "Longitude": 89.036863,
+        "Location Name": "Joypurhat District, Panchbibi -, Bangladesh"
+    },
+    "373": {
+        "Access to water (in Hrs)": 0.67,
+        "Access to electricity": 6,
+        "Access to cellphone": 6,
+        "Education completed": 27.868852459,
+        "Wealth Index Factor Score": -0.626345,
+        "Latitude": 24.688859,
+        "Longitude": 88.867868,
+        "Location Name": "Naogaon District, -, Bangladesh"
+    },
+    "375": {
+        "Access to water (in Hrs)": 0.58,
+        "Access to electricity": 4,
+        "Access to cellphone": 5,
+        "Education completed": 27.0491803279,
+        "Wealth Index Factor Score": 1.27747,
+        "Latitude": 24.767666,
+        "Longitude": 88.641915,
+        "Location Name": "Manda Upazila, Bangladesh"
+    },
+    "376": {
+        "Access to water (in Hrs)": 6.83,
+        "Access to electricity": 24,
+        "Access to cellphone": 23,
+        "Education completed": 88.5245901639,
+        "Wealth Index Factor Score": -0.95063,
+        "Latitude": 24.827133,
+        "Longitude": 88.662243,
+        "Location Name": "Z6852, Naogaon District, -, Bangladesh"
+    },
+    "377": {
+        "Access to water (in Hrs)": 15.08,
+        "Access to electricity": 22,
+        "Access to cellphone": 24,
+        "Education completed": 67.2131147541,
+        "Wealth Index Factor Score": -1.08544,
+        "Latitude": 24.939871,
+        "Longitude": 88.77489,
+        "Location Name": "Naogaon District, - 6530, Bangladesh"
+    },
+    "378": {
+        "Access to water (in Hrs)": 6.67,
+        "Access to electricity": 14,
+        "Access to cellphone": 20,
+        "Education completed": 70.4918032787,
+        "Wealth Index Factor Score": -0.78973,
+        "Latitude": 24.890107,
+        "Longitude": 88.914656,
+        "Location Name": "Naogaon District, Naogaon -, Bangladesh"
+    },
+    "379": {
+        "Access to water (in Hrs)": 9.0,
+        "Access to electricity": 18,
+        "Access to cellphone": 16,
+        "Education completed": 45.9016393443,
+        "Wealth Index Factor Score": -1.180865,
+        "Latitude": 24.833158,
+        "Longitude": 88.570164,
+        "Location Name": "Z6852, Naogaon District, Niamatpur -, Bangladesh"
+    },
+    "380": {
+        "Access to water (in Hrs)": 5.83,
+        "Access to electricity": 12,
+        "Access to cellphone": 15,
+        "Education completed": 63.9344262295,
+        "Wealth Index Factor Score": -0.89633,
+        "Latitude": 25.149563,
+        "Longitude": 88.650142,
+        "Location Name": "Naogaon District, -, Bangladesh"
+    },
+    "381": {
+        "Access to water (in Hrs)": 0.42,
+        "Access to electricity": 5,
+        "Access to cellphone": 5,
+        "Education completed": 18.0327868852,
+        "Wealth Index Factor Score": -0.74025,
+        "Latitude": 24.70551,
+        "Longitude": 88.913431,
+        "Location Name": "Naogaon District, -, Bangladesh"
+    },
+    "382": {
+        "Access to water (in Hrs)": 2.67,
+        "Access to electricity": 10,
+        "Access to cellphone": 11,
+        "Education completed": 23.7704918033,
+        "Wealth Index Factor Score": -1.03357,
+        "Latitude": 24.292164,
+        "Longitude": 88.953593,
+        "Location Name": "Natore District, - 6431, Bangladesh"
+    },
+    "383": {
+        "Access to water (in Hrs)": 0.75,
+        "Access to electricity": 3,
+        "Access to cellphone": 4,
+        "Education completed": 9.0163934426,
+        "Wealth Index Factor Score": -0.7255,
+        "Latitude": 24.255372,
+        "Longitude": 89.188159,
+        "Location Name": "Boraigram, Baraigram Upazila, Bangladesh"
+    }
+}

@@ -1,0 +1,48 @@
+{% extends 'views/index.html' %}
+{% block head %}
+{% include 'components/map.css.html' %}
+{% include 'components/map.js.html' %}
+{% endblock %}
+
+{% block content %}
+<h1 class="text-center text-3xl font-bold">Leaflet Map Demo</h1>
+<div class="m-4 flex h-full flex-col rounded-lg bg-gray-100 p-3 shadow-sm shadow-gray-500 dark:bg-gray-400">
+    <div class="folium-map" id="map"></div>
+</div>
+{% endblock %}
+{% block script %}
+<script src="{{ url_for('static', filename='js/map.static.js') }}"></script>
+
+<script>
+    const jsonFileUrl = location.origin + "{{ url_for('static', filename='assets/dataset/data.json') }}";
+
+    const getJsonData = async () => {
+        const response = await fetch(jsonFileUrl);
+        const json = await response.json();
+        return json;
+    };
+    const MARKER_CLUSTER = new L.markerClusterGroup({});
+
+    const addCircleMarkers = async () => {
+        const data = await getJsonData();
+
+        for (const record in data) {
+            let latitude = parseFloat(data[record]["Latitude"]);
+            let longitude = parseFloat(data[record]["Longitude"]);
+            let waterDistance = parseFloat(data[record]["Access to water (in Hrs)"]);
+            let circleRadius = waterDistance < 2 ? waterDistance * 6 : waterDistance * 2;
+            let wealthIdxScore = data[record]["Wealth Index Factor Score"];
+
+            let circleMarker = L.circleMarker([latitude, longitude], {
+                radius: circleRadius,
+                color: wealthIdxScore > 0 ? 'lightblue' : 'red',
+                fillColor: wealthIdxScore > 0 ? 'lightblue' : 'red',
+                fillOpacity: 0.25
+            })
+            circleMarker.on("click", () => { MARKER.setLatLng(circleMarker.getLatLng()).setPopupContent(`<b>Location:</b> ${data[record]["Location Name"]}`); }).addTo(MARKER_CLUSTER);
+        }
+    }
+    document.addEventListener("DOMContentLoaded", () => { addCircleMarkers(); MARKER_CLUSTER.addTo(MAP); });
+
+</script>
+{% endblock %}

@@ -1,0 +1,20 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poverty Analyis</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    {% block head %} {% endblock %}
+</head>
+
+<body class="grid min-h-screen max-w-full grid-rows-[auto_1fr] grid-cols-[auto_1fr] relative">
+    {% include "components/header.html" %}
+    {% include "components/sidebar.html" %}
+    <main class="relative flex flex-1 flex-col gap-4 p-4 md:gap-8 md:px-6 overflow-x-hidden">
+        {% block content %}{% endblock %}
+    </main>
+    {% block script %}{% endblock %}
+</body>
+
+</html>
