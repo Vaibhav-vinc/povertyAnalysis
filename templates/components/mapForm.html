@@ -1,0 +1,22 @@
+<div class="flex gap-4 grow">
+    <div id="map" class="max-w-lg aspect-square border border-gray-300 rounded-lg"></div>
+    <div class="flex flex-col flex-wrap gap-4 transition-[width] *:transition-[width]">
+        <div class="flex flex-col gap-4 w-fit">
+            <input id="latitude" type="number"
+                class="flex h-10 w-full rounded-md border-[3px] border-dashed px-3 py-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
+                placeholder="Latitude">
+            <input id="longitude" type="number"
+                class="flex h-10 w-full rounded-md border-[3px] border-dashed px-3 py-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
+                placeholder="Longitude">
+            <button id="coords-submit"
+                class="inline-flex justify-center items-end rounded-md font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-blue-500 text-white hover:bg-blue-500/90 h-10 px-4 py-2 w-full"
+                type="submit">
+                Go to location
+            </button>
+        </div>
+        <div id="error-snackbar"
+            class="flex hidden w-full text-wrap rounded-md border-4 border-dashed border-red-400 bg-red-400/40 p-3 font-bold text-red-400">
+            Enter valid coordinates!<br />Within the bounds of Bangladesh!</div>
+    </div>
+    <div class="img"></div>
+</div>

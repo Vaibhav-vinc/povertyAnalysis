@@ -1,0 +1,80 @@
+{% extends 'views/index.html' %}
+{% block head %}
+{% include 'components/map.css.html' %}
+{% include 'components/map.js.html' %}
+{% endblock %}
+
+{% block content %}
+<div class="grid lg:grid-cols-2 sm:grid-rows-[100%_100%] h-full gap-6">
+    <!-- Data Holder Card -->
+    <div class="rounded-lg border-4 border-gray-300 border-dashed shadow-lg shadow-gray-400">
+        <label for="location-input">
+            <div class="flex flex-col space-y-1.5 p-6">
+                <h3 class="text-2xl font-semibold">Select a location
+                </h3>
+            </div>
+        </label>
+        <div class="mx-6">
+            <input list="jsonList" id="location-input"
+                class="inline-flex items-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:bg-gray-200/90 focus-visible:ring-offset-2 placeholder-gray-400 disabled:pointer-events-none disabled:opacity-50 bg-gray-200 text-gray-800 hover:bg-gray-200/90 h-10 px-4 py-2 w-full justify-between"
+                placeholder="Select a Location">
+            </input>
+            <datalist id="jsonList"></datalist>
+        </div>
+        <div class="p-6 rounded-md mt-10">
+            <h3 id="annualDataHeading" class="text-2xl font-semibold mb-8">Annual data will be shown here
+            </h3>
+            <div id="annualData" class="grid grid-cols-2 gap-4 hidden">
+                <div class="space-y-1">
+                    <p class="text-lg font-medium">Wealth Index</p>
+                    <p id="wealthIndex">17.3%</p>
+                </div>
+                <div class="space-y-1">
+                    <p class="text-lg font-medium">Nearest water source <span class="text-xs text-gray-600">(in
+                            mins)</span> </p>
+                    <p id="accessToWater">New York City</p>
+                </div>
+                <div class="space-y-1">
+                    <p class="text-lg font-medium">Access to electricity <span class="text-xs text-gray-600">(in
+                            Hrs / Day)</span></p>
+                    <p id="accessToElec">8,804,190</p>
+                </div>
+                <div class="space-y-1">
+                    <p class="text-lg font-medium">Cellphone Access <span class="text-xs text-gray-600">(in Hrs /
+                            Day)</span>
+                    </p>
+                    <p id="accessToCell">$63,998</p>
+                </div>
+                <div class="space-y-1">
+                    <p class="text-lg font-medium">Education Completing Personnel <span
+                            class="text-xs text-gray-600">(in
+                            %)</span>
+                    </p>
+                    <p id="education">7.6%</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Map Holder Card -->
+    <div class="rounded-lg border-4 border-gray-300 border-dashed shadow-lg shadow-gray-400 grow flex flex-col">
+        <div class="flex flex-col space-y-1.5 p-6">
+            <h3 class="text-2xl font-semibold leading-none tracking-tight">
+                Map
+            </h3>
+        </div>
+        <div class="p-6 flex grow">
+            <div id="map" class="border grow border-gray-300 rounded-lg"></div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block script %}
+<script>
+    const jsonFileUrl = location.origin + "{{ url_for('static', filename='assets/dataset/data.json') }}";
+</script>
+<script src="{{ url_for('static', filename='js/map.static.js') }}">
+</script>
+<script src="{{ url_for('static', filename='js/dashboard.static.js') }}">
+</script>
+{% endblock %}

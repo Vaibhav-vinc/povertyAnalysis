@@ -1,0 +1,117 @@
+{% extends 'views/index.html' %}
+{% block head %}
+{% include 'components/map.css.html' %}
+{% include 'components/map.js.html' %}
+<style>
+    .maps>div {
+        border: 1px solid #939393;
+        padding: 1rem;
+        border-radius: 15px;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="maps flex flex-row gap-4 basis-2/3 *:flex *:basis-full *:grow *:flex-col *:gap-3">
+    <div>
+        <h3>Simple example</h3>
+        <div id="mapSimple" class="w-full max-h-full grow"></div>
+        <div id="mapSimpleScreeningState"></div>
+    </div>
+
+    <div>
+        <h3>Simple example with elements with long distances</h3>
+        <div id="mapBig" class="w-full max-h-full grow"></div>
+        <div id="mapBigScreeningState"></div>
+    </div>
+
+    <div>
+        <h3>Advanced example</h3>
+        <div id="map3" class="w-full max-h-full grow"></div>
+        <div class="flex gap-2 *:border *:border-gray-500 *:rounded-md">
+            <button id="screenMap">Take and download screen</button>
+            <button id="screenMapAndPast">Take screen and past to body</button>
+        </div>
+    </div>
+    <div class="p-3 screens"></div>
+</div>
+
+<h3 class="ScreeningState text-lg font-extrabold flex grow"></h3>
+{% endblock %}
+
+{% block script %}
+<script>
+    /* MAP */
+    var mapSimple = new L.map('mapSimple').setView([40, -74], 2);
+    var mapBig = new L.map('mapBig').setView([40, -74], 7);
+    var map = new L.map('map3').setView([56, 37], 2);
+
+    /* LAYERS */
+    const CLOUDMADE_URL = 'http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png'
+    const ESRI_URL = "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}";
+    const BASE_LYR_URL = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png' // STREET VIEW MAP LAYER
+
+    const LYR_CLOUD = new L.tileLayer(CLOUDMADE_URL)
+    const LYR_SATELLITE = new L.tileLayer(ESRI_URL);
+
+    new L.tileLayer(BASE_LYR_URL).addTo(mapSimple);
+    new L.tileLayer(BASE_LYR_URL).addTo(mapBig);
+    new L.tileLayer(BASE_LYR_URL).addTo(map);
+    // const baseMaps = {
+    //     Streets: LYR_STREET,
+    //     Satellite: LYR_STREET,
+    // };
+
+    // L.control.layers(baseMaps).addTo(map);
+
+    /* SCREENSHOTTER */
+    new L.simpleMapScreenshoter().addTo(mapSimple)
+    new L.simpleMapScreenshoter({ screenName: function () { return new Date().toDateString() } }).addTo(mapBig);
+    var simpleMapScreenshoter = L.simpleMapScreenshoter({ hidden: true }).addTo(map)
+
+
+    /* MARKERS */
+    const A = [40, -74];
+    const B = [51.503, -0.06];
+    const C = [20, -20];
+    L.marker([73, -43]).addTo(map).bindPopup('Greenland')
+    L.marker([23.6, 121.5]).addTo(map).bindPopup('China')
+    L.marker(A).addTo(mapBig);
+    L.marker(B).addTo(mapBig);
+    L.marker(C).addTo(mapBig);
+    L.polygon([A, B, C]).addTo(mapBig);
+
+
+    /* SETTING SCREENSHOTTER PROGRESS DISPLAY */
+    [map, mapBig, mapSimple].forEach(m => {
+        m.on('simpleMapScreenshoter.takeScreen', async () => {
+            document.getElementsByClassName('ScreeningState').innerHTML = 'screening...<br>'
+        })
+        m.on('simpleMapScreenshoter.done', async () => {
+            document.getElementsByClassName('ScreeningState').innerHTML = 'screen end...<br>'
+        })
+        m.on('simpleMapScreenshoter.error', async (event) => {
+            console.error(event.e)
+            document.getElementsByClassName('ScreeningState').innerHTML = event.e.toString() + '<br>'
+        })
+    })
+
+
+    /* Return As Blob */
+    document.getElementById('screenMap').addEventListener('click', function () {
+        simpleMapScreenshoter.takeScreen('blob')
+            .then(blob => { saveAs(blob, 'screen.png') })
+            .catch(e => { alert(e.toString()) })
+    })
+
+    /* Return As Image */
+    document.getElementById('screenMapAndPast').addEventListener('click', async function () {
+        simpleMapScreenshoter.takeScreen('image')
+            .then(image => {
+                var img = document.createElement('img');
+                img.src = image;
+                document.getElementById('screens').innerHTML = img.outerHTML;
+            }).catch(e => { alert(e.toString()) })
+    })
+</script>
+{% endblock %}

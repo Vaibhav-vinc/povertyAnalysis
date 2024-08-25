@@ -1,0 +1,109 @@
+{% extends 'views/index.html' %}
+{% block head %}
+{% include 'components/map.css.html' %}
+{% include 'components/map.js.html' %}
+{% endblock %}
+
+{% block content %}
+<div class="rounded-lg border-4 border-dashed border-gray-300 shadow-lg">
+    <div class="flex flex-col flex-auto p-6 gap-6">
+        <div class="flex align-items-center flex-col md:flex-row gap-4 text-right">
+            <div class="flex flex-col space-y-1.5">
+                <p class="text-sm text-left">Predict Poverty Level</p>
+                <h3 class="text-2xl font-semibold w-fit">
+                    Enter details
+                </h3>
+            </div>
+            <div class="ml-auto flex align-items-center flex-col">{% include 'components/formSwitchButton.html' %}</div>
+        </div>
+        <div id="formContainer">
+            {% include 'components/form.html' %}
+            <div class="w-full md:w-1/2 text-center font-black text-gray-500 my-3">OR</div>
+            <button id="uploadOpen"
+                class="inline-flex justify-center items-end rounded-md font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-gray-400 text-white hover:bg-gray-400/90 h-10 px-4 py-2 w-full md:w-1/2">
+                Upload an Image
+            </button>
+        </div>
+        <div id="fileUploadContainer"
+            class="flex w-full h-full backdrop-filter backdrop-blur-0 transition-all items-center justify-center bg-gray-100/20 absolute inset-0 hidden">
+            <label id="uploadLabel"
+                class="w-64 flex flex-col items-center px-4 py-6 bg-white text-blue rounded-lg shadow-lg tracking-wide uppercase border border-blue cursor-pointer hover:bg-blue hover:text-gray-500">
+                <svg class="w-8 h-8" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                    <path
+                        d="M16.88 9.1A4 4 0 0 1 16 17H5a5 5 0 0 1-1-9.9V7a3 3 0 0 1 4.52-2.59A4.98 4.98 0 0 1 17 8c0 .38-.04.74-.12 1.1zM11 11h3l-4-4-4 4h3v3h2v-3z" />
+                </svg>
+                <span class="mt-2 text-base leading-normal">Select a file</span>
+                <input type='file' class="hidden" />
+            </label>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block script %}
+<script src="{{ url_for('static', filename='js/map.static.js' ) }}"></script>
+<script>
+    const button = document.getElementById("formSwitch");
+    const formChoiceState = document.getElementById("formChoiceState");
+    const formContainer = document.getElementById("formContainer");
+    const insightForm = document.getElementById("insightForm");
+    const inputFile = document.querySelector("input[type='file']");
+    // const latitudeField = document.getElementById("latitude");
+    // const longitudeField = document.getElementById("longitude");
+    // const mapCoordsSubmitButton = document.getElementById("coords-submit");
+    // const errorSnackbar = document.getElementById("error-snackbar")
+    const uploadOpen = document.getElementById("uploadOpen");
+    const fileUploadContainer = document.querySelector("#fileUploadContainer");
+
+    button.addEventListener("input", (event) => {
+        let buttonChecked = event.target.checked;
+        if (buttonChecked) {
+            formChoiceState.textContent = "Map";
+            formContainer.classList.add("hidden")
+        }
+        else {
+            formChoiceState.textContent = "Form";
+            formContainer.classList.remove("hidden")
+        }
+    });
+
+    insightForm.addEventListener("submit", (event) => {
+        event.preventDefault();
+        let waterSourceDistance = document.getElementById('waterSourceDistance');
+        let elecAvailability = document.getElementById('elecAvailability');
+        let cellAccess = document.getElementById('cellAccess');
+        let educatedInYear = document.getElementById('educatedInYear');
+        url = location.origin + "{{ url_for('g') }}" + new URLSearchParams({
+            waterSourceDistance: waterSourceDistance,
+            elecAvailability: elecAvailability,
+            cellAccess: cellAccess,
+            educatedInYear: educatedInYear,
+        });
+        /* FETCH CALL FOR THE MODEL BY SENDING THE IMAGE TO THE BACKEND. */
+        fetch(url, {/* File will be added here {data: fileObj} */ })
+            .then(response => response.json)
+            .then(response => response['estimated_wealth_index'])
+    });
+
+    inputFile.addEventListener("change", (event) => {
+        url = location.origin + "{{ url_for('g') }}";
+        /* FETCH CALL FOR THE MODEL BY SENDING THE IMAGE TO THE BACKEND. */
+        fetch(url, {/* File will be added here {data: fileObj} */ })
+            .then(response => response.json)
+            .then(response => response['estimated_wealth_index'])
+    });
+
+    uploadOpen.addEventListener("click", (event) => {
+        fileUploadContainer.classList.remove("hidden", "backdrop-blur-0");
+        fileUploadContainer.classList.add("backdrop-blur");
+        fileUploadContainer.addEventListener("click", (event) => {
+            alert("Please Make Sure That The Image Being Uploaded Is A Satellite Image Beforehand!");
+            if (event.target.contains(fileUploadContainer)) {
+                fileUploadContainer.classList.add("hidden", "backdrop-blur-0");
+                fileUploadContainer.classList.remove("backdrop-blur");
+            }
+        })
+    })
+
+</script>
+{% endblock %}

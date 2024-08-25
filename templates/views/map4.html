@@ -1,0 +1,10 @@
+{% extends 'views/index.html' %}
+{% block head %}
+{% include 'components/map.css.html' %}
+{% include 'components/map.js.html' %}
+{% endblock %}
+
+{% block content %}
+<iframe src="{{ url_for('static', filename='js/map4_iframe.html') }}" frameborder="4"
+    style="height: 100%; width: 100%;"></iframe>
+{% endblock %}

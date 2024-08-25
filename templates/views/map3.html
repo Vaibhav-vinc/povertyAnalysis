@@ -1,0 +1,221 @@
+{% extends 'views/index.html' %}
+{% block head %}
+{% include 'components/map.css.html' %}
+{% include 'components/map.js.html' %}
+{% endblock %}
+
+{% block content %}
+<h1 class="text-center text-3xl font-bold">Leaflet Map Demo</h1>
+<div class="m-4 p-3 flex-col h-[100%] rounded-lg bg-gray-100 dark:bg-gray-400 shadow-sm shadow-gray-500 flex ">
+    <div id="map">
+    </div>
+</div>
+{% endblock %}
+{% block script %}
+<script>
+    var bounds = null;
+    var map = L.map(
+        'map', {
+        center: [42.3601, -71.0589],
+        zoom: 12,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+    });
+    var tile_layer_c0dbaef3723941ea900ddf752c456c9a = L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+            "attribution": null,
+            "detectRetina": false,
+            "maxNativeZoom": 18,
+            "maxZoom": 18,
+            "minZoom": 0,
+            "noWrap": false,
+            "subdomains": "abc"
+        }).addTo(map);
+    var marker_b4d80458dfa94452a7056470193079e1 = L.marker(
+        [42.3636, -71.0995],
+        {
+            icon: new L.Icon.Default()
+        }
+    ).addTo(map);
+
+    var popup_c53e013607d541a891c2897d5c685a62 = L.popup({
+        maxWidth: '300'
+    });
+
+    var html_fbf538f836724f2ebd88eaa6b923cd4f = $('<div id="html_fbf538f836724f2ebd88eaa6b923cd4f" style="width: 100.0%; height: 100.0%;"><strong>Location One</strong></div>')[0];
+    popup_c53e013607d541a891c2897d5c685a62.setContent(html_fbf538f836724f2ebd88eaa6b923cd4f);
+
+    marker_b4d80458dfa94452a7056470193079e1.bindPopup(popup_c53e013607d541a891c2897d5c685a62)
+        ;
+
+    marker_b4d80458dfa94452a7056470193079e1.bindTooltip(
+        '<div>'
+        + 'Click For More Info' + '</div>',
+        { "sticky": true }
+    );
+
+    var marker_54cd320f57ab442ea2d371f747bbcab3 = L.marker(
+        [42.3336, -71.1095],
+        {
+            icon: new L.Icon.Default()
+        }
+    ).addTo(map);
+
+
+    var icon_6974de52f1424ca9925a092b511cc829 = L.AwesomeMarkers.icon({
+        icon: 'cloud',
+        iconColor: 'white',
+        markerColor: 'blue',
+        prefix: 'glyphicon',
+        extraClasses: 'fa-rotate-0'
+    });
+    marker_54cd320f57ab442ea2d371f747bbcab3.setIcon(icon_6974de52f1424ca9925a092b511cc829);
+
+    var popup_4bc8fad705874be2aad2de6b29211b08 = L.popup({
+        maxWidth: '300'
+    });
+
+    var html_84a1e5d2a3e744d295747c2e13ee7cd8 = $('<div id="html_84a1e5d2a3e744d295747c2e13ee7cd8" style="width: 100.0%; height: 100.0%;"><strong>Location Two</strong></div>')[0];
+    popup_4bc8fad705874be2aad2de6b29211b08.setContent(html_84a1e5d2a3e744d295747c2e13ee7cd8);
+
+    marker_54cd320f57ab442ea2d371f747bbcab3.bindPopup(popup_4bc8fad705874be2aad2de6b29211b08)
+        ;
+
+    marker_54cd320f57ab442ea2d371f747bbcab3.bindTooltip(
+        '<div>'
+        + 'Click For More Info' + '</div>',
+        { "sticky": true }
+    );
+
+    var marker_0af0e12b4627475b82018b450e987e04 = L.marker(
+        [42.37712, -71.0624],
+        {
+            icon: new L.Icon.Default()
+        }
+    ).addTo(map);
+
+
+    var icon_936364efed364a758705765bd446615c = L.AwesomeMarkers.icon({
+        icon: 'info-sign',
+        iconColor: 'white',
+        markerColor: 'purple',
+        prefix: 'glyphicon',
+        extraClasses: 'fa-rotate-0'
+    });
+    marker_0af0e12b4627475b82018b450e987e04.setIcon(icon_936364efed364a758705765bd446615c);
+
+    var popup_fd18c7de2707425995f4d1d553774606 = L.popup({
+        maxWidth: '300'
+    });
+
+    var html_f6256a4ee5034bda813e86c7e513082b = $('<div id="html_f6256a4ee5034bda813e86c7e513082b" style="width: 100.0%; height: 100.0%;"><strong>Location Three</strong></div>')[0];
+    popup_fd18c7de2707425995f4d1d553774606.setContent(html_f6256a4ee5034bda813e86c7e513082b);
+
+    marker_0af0e12b4627475b82018b450e987e04.bindPopup(popup_fd18c7de2707425995f4d1d553774606)
+        ;
+
+    marker_0af0e12b4627475b82018b450e987e04.bindTooltip(
+        '<div>'
+        + 'Click For More Info' + '</div>',
+        { "sticky": true }
+    );
+
+    var marker_15c40aff28b74e61917a935cc4902ca0 = L.marker(
+        [42.37415, -71.12241],
+        {
+            icon: new L.Icon.Default()
+        }
+    ).addTo(map);
+
+
+    var icon_cb9830c64935414bbe3b7c34f2419b43 = L.AwesomeMarkers.icon({
+        icon: 'leaf',
+        iconColor: 'white',
+        markerColor: 'green',
+        prefix: 'glyphicon',
+        extraClasses: 'fa-rotate-0'
+    });
+    marker_15c40aff28b74e61917a935cc4902ca0.setIcon(icon_cb9830c64935414bbe3b7c34f2419b43);
+
+    var popup_3df73a28ddec4e26865588b844b1085a = L.popup({
+        maxWidth: '300'
+    });
+
+    var html_d7e1d9d4dc8f422aa72970044009fa74 = $('<div id="html_d7e1d9d4dc8f422aa72970044009fa74" style="width: 100.0%; height: 100.0%;"><strong>Location Four</strong></div>')[0];
+    popup_3df73a28ddec4e26865588b844b1085a.setContent(html_d7e1d9d4dc8f422aa72970044009fa74);
+
+    marker_15c40aff28b74e61917a935cc4902ca0.bindPopup(popup_3df73a28ddec4e26865588b844b1085a)
+        ;
+
+    marker_15c40aff28b74e61917a935cc4902ca0.bindTooltip(
+        '<div>'
+        + 'Click For More Info' + '</div>',
+        { "sticky": true }
+    );
+
+    var marker_a0d3ba8696c04082a9644f25c73f7789 = L.marker(
+        [42.37514, -71.03245],
+        {
+            icon: new L.Icon.Default()
+        }
+    ).addTo(map);
+
+    var popup_233e882e47c64290a6965b54d8044260 = L.popup({
+        maxWidth: '300'
+    });
+
+    var html_6044b9ec5e7c421ba05371212a06cce1 = $('<div id="html_6044b9ec5e7c421ba05371212a06cce1" style="width: 100.0%; height: 100.0%;"><strong>Location Five</strong></div>')[0];
+    popup_233e882e47c64290a6965b54d8044260.setContent(html_6044b9ec5e7c421ba05371212a06cce1);
+
+    marker_a0d3ba8696c04082a9644f25c73f7789.bindPopup(popup_233e882e47c64290a6965b54d8044260)
+        ;
+
+    marker_a0d3ba8696c04082a9644f25c73f7789.bindTooltip(
+        '<div>'
+        + 'Click For More Info' + '</div>',
+        { "sticky": true }
+    );
+
+    var circle_marker_2f6357d2271641b481157e2b0413060e = L.circleMarker(
+        [42.46647, -70.94211],
+        {
+            "bubblingMouseEvents": true,
+            "color": "#428bca",
+            "dashArray": null,
+            "dashOffset": null,
+            "fill": true,
+            "fillColor": "#428bca",
+            "fillOpacity": 0.2,
+            "fillRule": "evenodd",
+            "lineCap": "round",
+            "lineJoin": "round",
+            "opacity": 1.0,
+            "radius": 50,
+            "stroke": true,
+            "weight": 3
+        }
+    )
+        .addTo(map);
+
+    var popup_d433d54bc44f42c2b271018b046ad625 = L.popup({
+        maxWidth: '300'
+    });
+
+    var html_461e7f8d0ed348328e725c5d705d95ba = $('<div id="html_461e7f8d0ed348328e725c5d705d95ba" style="width: 100.0%; height: 100.0%;">My Birthplace</div>')[0];
+    popup_d433d54bc44f42c2b271018b046ad625.setContent(html_461e7f8d0ed348328e725c5d705d95ba);
+
+    circle_marker_2f6357d2271641b481157e2b0413060e.bindPopup(popup_d433d54bc44f42c2b271018b046ad625)
+        ;
+
+
+    var geo_json_42f46bd2e0f9436bb2e787ec246e6dbc = L.geoJson(
+        { "features": [{ "geometry": { "coordinates": [[-71.10300064086914, 42.35404065289404], [-71.09742164611816, 42.35556291928673], [-71.0910701751709, 42.357338850142156], [-71.08600616455078, 42.359368423951025], [-71.08077049255371, 42.3609539828782], [-71.07905387878418, 42.36399814386249], [-71.07587814331055, 42.36773972300433], [-71.0734748840332, 42.37236882604973], [-71.07956886291504, 42.37446132230829], [-71.08686447143553, 42.37509539831962], [-71.1009407043457, 42.37953375114589], [-71.10712051391602, 42.381055399900994], [-71.11063957214355, 42.38314760672845], [-71.11467361450195, 42.38523974383771], [-71.11879348754883, 42.38701483580215], [-71.12265586853027, 42.38644427600166], [-71.12608909606934, 42.381182202299385], [-71.1276340484619, 42.3757294679291], [-71.12565994262694, 42.37357360513729], [-71.12402915954588, 42.37078355519824], [-71.1188793182373, 42.36957872259166], [-71.11621856689453, 42.365900669578544], [-71.11630439758301, 42.361778457708425], [-71.11424446105957, 42.356831446447515], [-71.11252784729002, 42.354992073710456], [-71.1078929901123, 42.35404065289404], [-71.10368728637695, 42.3537235094212]], "type": "LineString" }, "properties": { "highlight": {}, "style": {} }, "type": "Feature" }], "type": "FeatureCollection" }
+    ).addTo(map);
+    geo_json_42f46bd2e0f9436bb2e787ec246e6dbc.setStyle(function (feature) { return feature.properties.style; });
+
+</script>
+{% endblock %}
